@@ -1,0 +1,24 @@
+name: Sync JSON
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descargar JSON
+        run: |
+          curl -o agenda345.json https://streamx339.cloud/json/agenda345.json
+
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add agenda345.json
+          git diff --cached --quiet || git commit -m "Sync agenda345.json - $(date -u '+%Y-%m-%d')"
+          git push

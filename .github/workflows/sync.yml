@@ -16,7 +16,7 @@ jobs:
 
       - name: Descargar JSON
         run: |
-          curl -o agenda345.json https://canchatv.online/res/json/eventos_unificados.json
+          curl -o agenda345.json https://canchatv.online/res/json/eventos_unificados.json?v=1776262713787
 
       - name: Commit si hay cambios
         run: |

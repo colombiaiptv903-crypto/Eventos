@@ -16,7 +16,7 @@ jobs:
 
       - name: Descargar JSON
         run: |
-          curl -o agenda345.json https://la14hd.com/status.json
+          curl -o agenda345.json https://la14hd.com//eventos/json/agenda123.json
 
       - name: Commit si hay cambios
         run: |

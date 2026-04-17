@@ -1,0 +1,34 @@
+name: Generar Agenda Deportiva
+
+on:
+  schedule:
+    # Corre cada día a las 05:00 UTC = 00:00 Colombia (medianoche)
+    - cron: '0 5 * * *'
+  workflow_dispatch:   # Permite ejecutar manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generar agenda123.json
+        run: python generate_agenda.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add agenda123.json
+          git diff --cached --quiet || git commit -m "📅 Agenda deportiva $(date -u '+%Y-%m-%d')"
+          git push

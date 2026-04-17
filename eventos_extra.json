@@ -1,0 +1,15 @@
+[
+  {
+    "_comentario": "Agrega aquí eventos adicionales o corrige canales. Estos se incluirán siempre. Formato de fecha: YYYY-MM-DD (ej: 2026-04-17). Deja 'fecha' vacía para mostrar como 'En vivo'.",
+    "_ejemplo": {
+      "titulo": "Liga BetPlay: Millonarios vs Nacional",
+      "hora": "20:00",
+      "fecha": "2026-04-17",
+      "categoria": "Fútbol",
+      "canales": [
+        { "nombre": "Win Sports", "iframe": "http://181.78.8.199:8000/play/a0ic/index.m3u8" },
+        { "nombre": "Win Sports+", "iframe": "http://181.78.7.90:12500/play/a0q3/index.m3u8" }
+      ]
+    }
+  }
+]

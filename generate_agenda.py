@@ -1,146 +1,151 @@
 #!/usr/bin/env python3
 """
 Generador de agenda deportiva diaria para CineStream.
-Fuente: ESPN API (gratuita, sin clave) + eventos manuales en eventos_extra.json
-Salida: agenda123.json (formato compatible con la app CineStream)
 
-Ejecución: python generate_agenda.py
+Fuentes:
+  - Partidos del dia: ESPN API (gratuita, sin clave de acceso)
+  - URLs de canales:  cinestream.json (tu propio repo, siempre actualizado)
+  - Eventos extra:    eventos_extra.json (manual, opcional)
+
+Salida: agenda123.json compatible con la app CineStream
+
+Ejecucion: python generate_agenda.py
 """
 
 import json
-import os
+import re
+import unicodedata
 import urllib.request
-import urllib.error
 from datetime import datetime, timezone, timedelta
 
-# ── Zona horaria Colombia (UTC-5, sin horario de verano) ──────────────────────
+# ── Configuracion ─────────────────────────────────────────────────────────────
+
+# JSON principal de canales (tu propio repo — lo mantienes actualizado)
+CINESTREAM_JSON_URL = (
+    "https://raw.githubusercontent.com/colombiaiptv903-crypto/"
+    "cinestream/refs/heads/main/cinestream.json"
+)
+
+# Zona horaria Colombia (UTC-5, sin horario de verano)
 TZ_COL = timezone(timedelta(hours=-5))
 
-# ── Ligas de ESPN con su slug, nombre legible y canales por defecto ───────────
+# ── Ligas de ESPN: slug, nombre y canales por defecto para Colombia ───────────
 LIGAS = [
     {
         "slug": "col.1",
         "nombre": "Liga BetPlay",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["Win Sports", "Win Sports+"],
     },
     {
         "slug": "col.2",
-        "nombre": "Primera B",
-        "categoria": "Fútbol",
+        "nombre": "Primera B Colombia",
+        "categoria": "Futbol",
         "canales_default": ["Win Sports"],
     },
     {
         "slug": "conmebol.libertadores",
         "nombre": "Copa Libertadores",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 2", "DirecTV Sports"],
     },
     {
         "slug": "conmebol.sudamericana",
         "nombre": "Copa Sudamericana",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 3", "DirecTV Sports 2"],
     },
     {
         "slug": "conmebol.recopa",
         "nombre": "Recopa Sudamericana",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN", "DirecTV Sports"],
     },
     {
         "slug": "uefa.champions",
         "nombre": "Champions League",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN", "ESPN 2"],
     },
     {
         "slug": "uefa.europa",
         "nombre": "Europa League",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 3", "ESPN 4"],
     },
     {
         "slug": "eng.1",
         "nombre": "Premier League",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN", "ESPN 3"],
     },
     {
         "slug": "esp.1",
         "nombre": "La Liga",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 2", "DirecTV Sports"],
     },
     {
         "slug": "ger.1",
         "nombre": "Bundesliga",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 4", "ESPN 5"],
     },
     {
         "slug": "ita.1",
         "nombre": "Serie A",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN", "ESPN 2"],
     },
     {
         "slug": "fra.1",
         "nombre": "Ligue 1",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 3"],
     },
     {
         "slug": "mex.1",
         "nombre": "Liga MX",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 2", "TUDN"],
     },
     {
         "slug": "arg.1",
         "nombre": "Liga Argentina",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["TyC Sports", "ESPN"],
     },
     {
         "slug": "bra.1",
-        "nombre": "Brasileirão",
-        "categoria": "Fútbol",
+        "nombre": "Brasileirao",
+        "categoria": "Futbol",
         "canales_default": ["Sport TV", "ESPN"],
     },
     {
         "slug": "usa.1",
         "nombre": "MLS",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["ESPN 2"],
     },
     {
         "slug": "fifa.worldq.conmebol",
         "nombre": "Eliminatorias CONMEBOL",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["RCN", "Caracol", "ESPN"],
     },
     {
         "slug": "fifa.world",
         "nombre": "Copa del Mundo",
-        "categoria": "Fútbol",
+        "categoria": "Futbol",
         "canales_default": ["RCN", "Caracol", "ESPN"],
     },
 ]
 
 
-def cargar_json(ruta: str):
-    """Lee un archivo JSON local."""
-    try:
-        with open(ruta, encoding="utf-8") as f:
-            return json.load(f)
-    except Exception as e:
-        print(f"  [WARN] No se pudo leer {ruta}: {e}")
-        return {}
-
+# ── Utilidades ─────────────────────────────────────────────────────────────────
 
 def fetch_json(url: str):
-    """Descarga JSON desde una URL."""
+    """Descarga un JSON desde una URL y lo retorna como dict/list, o None."""
     req = urllib.request.Request(
         url,
         headers={
@@ -152,83 +157,172 @@ def fetch_json(url: str):
         },
     )
     try:
-        with urllib.request.urlopen(req, timeout=10) as r:
+        with urllib.request.urlopen(req, timeout=15) as r:
             return json.loads(r.read().decode("utf-8"))
     except Exception as e:
-        print(f"  [WARN] Error al descargar {url}: {e}")
+        print(f"  [WARN] No se pudo descargar {url}: {e}")
         return None
 
 
-def utc_to_colombia(utc_str: str) -> tuple[str, str]:
+def normalizar(texto: str) -> str:
     """
-    Convierte ISO date string UTC a fecha y hora colombiana.
-    Retorna (fecha_str, hora_str) → ("2026-04-17", "16:00")
+    Normaliza un nombre de canal para comparacion flexible:
+      - minusculas
+      - sin acentos
+      - 'Win Sports+' -> 'win sports plus'
+      - elimina sufijos de pais: (Col), (Arg), (Lat), (Mex), etc.
+      - elimina calidad: HD, SD, HD2, TDT
+    """
+    s = texto.lower().strip()
+    # Remover acentos
+    s = "".join(
+        c for c in unicodedata.normalize("NFD", s)
+        if unicodedata.category(c) != "Mn"
+    )
+    # '+' -> ' plus'
+    s = s.replace("+", " plus")
+    # Quitar sufijos de pais entre parentesis
+    s = re.sub(
+        r"\s*\((col|arg|lat|mex|chi|us|usa|br|pe|uy|ec|ve|bo|py|ar)\)",
+        "", s
+    )
+    # Quitar calidad
+    s = re.sub(r"\b(hd2?|sd|tdt|4k)\b", "", s)
+    # Comprimir espacios
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def construir_canales_map(cinestream_data: dict) -> dict:
+    """
+    Construye un mapa  nombre_normalizado -> url  a partir de cinestream.json.
+
+    Prioridad al buscar canales duplicados (mismo nombre normalizado):
+      1. Canales colombianos (contienen 'col' en el nombre original)
+      2. Canales sin region especifica
+      3. Otros paises
+    """
+    canales_raw = cinestream_data.get("canales", [])
+
+    def prioridad(c: dict) -> int:
+        name = c.get("name", "").lower()
+        if "col" in name:
+            return 0   # Colombia primero
+        if not any(x in name for x in ["arg", "mex", "chi", "us)", "br)", "pe)", "uy)"]):
+            return 1   # Sin region
+        return 2       # Otra region
+
+    canales_sorted = sorted(canales_raw, key=prioridad)
+
+    canales_map = {}
+    for c in canales_sorted:
+        nombre = c.get("name", "").strip()
+        url = c.get("url", "").strip()
+        if not nombre or not url:
+            continue
+        norm = normalizar(nombre)
+        if norm not in canales_map:          # Primera (mayor prioridad) gana
+            canales_map[norm] = (nombre, url)
+
+    print(f"  Canales cargados desde cinestream.json: {len(canales_map)}")
+    return canales_map
+
+
+def buscar_url_canal(nombre_buscar: str, canales_map: dict) -> tuple[str, str]:
+    """
+    Busca la URL de un canal por nombre en el mapa.
+    Retorna (nombre_real, url) o ("", "") si no se encuentra.
+
+    Estrategia de busqueda (en orden):
+      1. Coincidencia exacta normalizada
+      2. La clave del mapa empieza con el termino buscado
+      3. El termino buscado empieza con la clave del mapa
+      4. Uno contiene al otro
+    """
+    norm = normalizar(nombre_buscar)
+
+    # 1. Exacto
+    if norm in canales_map:
+        return canales_map[norm]
+
+    # 2. La clave del mapa empieza con el termino + espacio (ej: 'espn' busca 'espn 1')
+    for key, val in canales_map.items():
+        if key.startswith(norm + " "):
+            return val
+
+    # 3. El termino buscado empieza con la clave (ej: busco 'espn 2' y hay 'espn')
+    for key, val in canales_map.items():
+        if norm.startswith(key + " "):
+            return val
+
+    # 4. Contiene
+    for key, val in canales_map.items():
+        if norm in key or key in norm:
+            return val
+
+    return ("", "")
+
+
+# ── Conversion de tiempo ───────────────────────────────────────────────────────
+
+def utc_a_colombia(utc_str: str) -> tuple[str, str]:
+    """
+    Convierte fecha UTC de ESPN ('2026-04-17T21:00Z') a hora Colombia (UTC-5).
+    Retorna ("2026-04-17", "16:00").
     """
     try:
-        # ESPN usa formato: "2026-04-17T21:00Z"
-        utc_dt = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
-        col_dt = utc_dt.astimezone(TZ_COL)
-        fecha = col_dt.strftime("%Y-%m-%d")
-        hora = col_dt.strftime("%H:%M")
-        return fecha, hora
+        dt_utc = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
+        dt_col = dt_utc.astimezone(TZ_COL)
+        return dt_col.strftime("%Y-%m-%d"), dt_col.strftime("%H:%M")
     except Exception:
         return "", ""
 
 
+# ── Obtencion de eventos ───────────────────────────────────────────────────────
+
 def obtener_eventos_espn(canales_map: dict, hoy: str) -> list:
     """
-    Descarga eventos de hoy desde múltiples ligas de ESPN.
-    Retorna lista de eventos en el formato nuevo de CineStream.
+    Consulta cada liga en la ESPN API y retorna los eventos de hoy
+    en el formato nuevo de CineStream.
     """
     eventos = []
 
     for liga in LIGAS:
         url = (
-            f"https://site.api.espn.com/apis/site/v2/sports/soccer/"
+            "https://site.api.espn.com/apis/site/v2/sports/soccer/"
             f"{liga['slug']}/scoreboard"
         )
-        print(f"  Consultando {liga['nombre']} ({liga['slug']})...")
+        print(f"  {liga['nombre']} ({liga['slug']})...")
         data = fetch_json(url)
         if not data:
             continue
 
         for event in data.get("events", []):
-            # Fecha y hora en Colombia
-            fecha_utc = event.get("date", "")
-            fecha, hora = utc_to_colombia(fecha_utc)
-
-            # Solo eventos de hoy
+            fecha, hora = utc_a_colombia(event.get("date", ""))
             if fecha != hoy:
                 continue
 
             # Equipos
-            competitions = event.get("competitions", [{}])
-            comp = competitions[0] if competitions else {}
+            comp = (event.get("competitions") or [{}])[0]
             teams = comp.get("competitors", [])
             home = next((t for t in teams if t.get("homeAway") == "home"), {})
             away = next((t for t in teams if t.get("homeAway") == "away"), {})
             home_name = home.get("team", {}).get("displayName", "?")
             away_name = away.get("team", {}).get("displayName", "?")
-
             titulo = f"{liga['nombre']}: {home_name} vs {away_name}"
 
-            # Estado
-            status_type = event.get("status", {}).get("type", {})
-            estado = status_type.get("description", "Programado")
-            status_str = "En vivo" if status_type.get("state") == "in" else "Pronto"
-
-            # Construir canales
+            # Construir canales con URLs reales de cinestream.json
             canales_evento = []
             for nombre_canal in liga["canales_default"]:
-                url_canal = canales_map.get(nombre_canal, "")
+                real_nombre, url_canal = buscar_url_canal(nombre_canal, canales_map)
                 if url_canal:
                     canales_evento.append({
-                        "nombre": nombre_canal,
+                        "nombre": real_nombre or nombre_canal,
                         "iframe": url_canal,
                     })
 
             if not canales_evento:
-                # Sin canal conocido — omitir
+                print(f"    [SKIP] Sin canales para: {titulo}")
                 continue
 
             eventos.append({
@@ -244,10 +338,15 @@ def obtener_eventos_espn(canales_map: dict, hoy: str) -> list:
 
 def cargar_eventos_extra(hoy: str) -> list:
     """
-    Lee eventos_extra.json y filtra los de hoy (o sin fecha).
-    Ignora entradas con claves que empiecen por '_' (comentarios).
+    Lee eventos_extra.json y devuelve los de hoy (o sin fecha = en vivo).
+    Ignora entradas de ejemplo/comentario (claves que empiezan con '_').
     """
-    raw = cargar_json("eventos_extra.json")
+    try:
+        with open("eventos_extra.json", encoding="utf-8") as f:
+            raw = json.load(f)
+    except Exception:
+        return []
+
     if not isinstance(raw, list):
         return []
 
@@ -255,62 +354,55 @@ def cargar_eventos_extra(hoy: str) -> list:
     for item in raw:
         if not isinstance(item, dict):
             continue
-        # Saltar entradas de comentario
-        if any(k.startswith("_") for k in item.keys()):
+        if any(k.startswith("_") for k in item):
             continue
         fecha = item.get("fecha", "")
-        # Incluir si es de hoy o sin fecha (en vivo)
         if fecha and fecha != hoy:
             continue
         resultado.append(item)
     return resultado
 
 
+# ── Main ───────────────────────────────────────────────────────────────────────
+
 def main():
-    # Fecha de hoy en Colombia
     hoy_col = datetime.now(TZ_COL).strftime("%Y-%m-%d")
     print(f"\n=== Generando agenda para {hoy_col} (hora Colombia) ===\n")
 
-    # Cargar mapa de canales
-    canales_map = cargar_json("canales.json")
-    if not canales_map:
-        print("[ERROR] canales.json vacío o no encontrado. Abortando.")
+    # 1. Descargar cinestream.json y construir mapa de canales
+    print("--- Cargando canales desde cinestream.json ---")
+    cinestream_data = fetch_json(CINESTREAM_JSON_URL)
+    if not cinestream_data:
+        print("[ERROR] No se pudo descargar cinestream.json. Abortando.")
         return
 
-    print(f"Canales disponibles: {len(canales_map)}")
+    canales_map = construir_canales_map(cinestream_data)
 
-    # Obtener eventos automáticos desde ESPN
+    # 2. Eventos automaticos desde ESPN API
     print("\n--- ESPN API ---")
     eventos_espn = obtener_eventos_espn(canales_map, hoy_col)
     print(f"Eventos ESPN encontrados para hoy: {len(eventos_espn)}")
 
-    # Cargar eventos manuales / extras
-    print("\n--- Eventos extras/manuales ---")
+    # 3. Eventos manuales / extras
+    print("\n--- Eventos manuales (eventos_extra.json) ---")
     eventos_manual = cargar_eventos_extra(hoy_col)
     print(f"Eventos manuales: {len(eventos_manual)}")
 
-    # Combinar: primero manuales (tienen prioridad) luego ESPN
+    # 4. Combinar (manuales primero, tienen prioridad) y ordenar por hora
     todos = eventos_manual + eventos_espn
-
-    # Ordenar por hora
-    def sort_key(e):
-        hora = e.get("hora", "99:99")
-        return hora
-
-    todos.sort(key=sort_key)
+    todos.sort(key=lambda e: e.get("hora", "99:99"))
 
     print(f"\nTotal eventos en agenda: {len(todos)}")
 
-    # Guardar agenda123.json
+    # 5. Guardar agenda123.json
     with open("agenda123.json", "w", encoding="utf-8") as f:
         json.dump(todos, f, ensure_ascii=False, indent=2)
 
-    print(f"\nOK: agenda123.json generado con {len(todos)} eventos para {hoy_col}")
-
-    # Mostrar resumen
+    print(f"\nOK: agenda123.json generado con {len(todos)} eventos para {hoy_col}\n")
     for ev in todos:
         canales_str = ", ".join(c["nombre"] for c in ev.get("canales", []))
-        print(f"  {ev.get('hora','?')} | {ev.get('titulo','?')} - {canales_str}")
+        print(f"  {ev.get('hora','?')} | {ev.get('titulo','?')}")
+        print(f"          Canales: {canales_str}")
 
 
 if __name__ == "__main__":

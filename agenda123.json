@@ -1,58 +1,14 @@
 [
   {
-    "titulo": "Serie A: Sassuolo vs Como",
-    "hora": "11:30",
-    "fecha": "2026-04-17",
+    "titulo": "Premier League: Brentford vs Fulham",
+    "hora": "06:30",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a02p/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: St. Pauli vs FC Cologne",
-    "hora": "13:30",
-    "fecha": "2026-04-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 4 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
-      },
-      {
-        "nombre": "ESPN 5 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a03x/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Internazionale vs Cagliari",
-    "hora": "13:45",
-    "fecha": "2026-04-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a02p/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Lens vs Toulouse",
-    "hora": "13:45",
-    "fecha": "2026-04-17",
-    "categoria": "Futbol",
-    "canales": [
       {
         "nombre": "ESPN 3 (Col)",
         "iframe": "http://181.78.7.90:12500/play/a0nb/index.m3u8"
@@ -60,46 +16,78 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Boyacá Chicó vs Deportivo Cali",
-    "hora": "16:00",
-    "fecha": "2026-04-17",
+    "titulo": "Premier League: Leeds United vs Wolverhampton Wanderers",
+    "hora": "09:00",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       },
       {
-        "nombre": "Win Sports +",
-        "iframe": "http://181.78.7.90:12500/play/a0q3/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.7.90:12500/play/a0nb/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Jaguares de Córdoba vs Deportivo Pasto",
-    "hora": "16:00",
-    "fecha": "2026-04-17",
+    "titulo": "Premier League: Newcastle United vs AFC Bournemouth",
+    "hora": "09:00",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       },
       {
-        "nombre": "Win Sports +",
-        "iframe": "http://181.78.7.90:12500/play/a0q3/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.7.90:12500/play/a0nb/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Unión (Santa Fe) vs Newell's Old Boys",
-    "hora": "18:30",
-    "fecha": "2026-04-17",
+    "titulo": "Premier League: Tottenham Hotspur vs Brighton & Hove Albion",
+    "hora": "11:30",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.7.90:12500/play/a0nb/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Chelsea vs Manchester United",
+    "hora": "14:00",
+    "fecha": "2026-04-18",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.7.90:12500/play/a0nb/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Chapecoense vs Botafogo",
+    "hora": "16:30",
+    "fecha": "2026-04-18",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV 1",
+        "iframe": "http://tv.diablotv.net:8080/live/roaua/Aua2026@/180834.ts"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -108,58 +96,50 @@
     ]
   },
   {
-    "titulo": "Primera B Colombia: Internacional FC de Palmira vs Boca Juniors de Cali",
-    "hora": "19:00",
-    "fecha": "2026-04-17",
+    "titulo": "Brasileirao: Vasco da Gama vs São Paulo",
+    "hora": "16:30",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlético de San Luis vs Pumas UNAM",
-    "hora": "20:00",
-    "fecha": "2026-04-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a02p/index.m3u8"
+        "nombre": "Sport TV 1",
+        "iframe": "http://tv.diablotv.net:8080/live/roaua/Aua2026@/180834.ts"
       },
       {
-        "nombre": "TUDN",
-        "iframe": "http://45.5.119.43:4000/play/a05q/index.m3u8"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga MX: Mazatlán FC vs Querétaro",
-    "hora": "20:00",
-    "fecha": "2026-04-17",
+    "titulo": "Brasileirao: Vitória vs Corinthians",
+    "hora": "18:00",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a02p/index.m3u8"
+        "nombre": "Sport TV 1",
+        "iframe": "http://tv.diablotv.net:8080/live/roaua/Aua2026@/180834.ts"
       },
       {
-        "nombre": "TUDN",
-        "iframe": "http://45.5.119.43:4000/play/a05q/index.m3u8"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "MLS: Vancouver Whitecaps vs Sporting Kansas City",
-    "hora": "21:30",
-    "fecha": "2026-04-17",
+    "titulo": "Brasileirao: Cruzeiro vs Grêmio",
+    "hora": "18:30",
+    "fecha": "2026-04-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a02p/index.m3u8"
+        "nombre": "Sport TV 1",
+        "iframe": "http://tv.diablotv.net:8080/live/roaua/Aua2026@/180834.ts"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       }
     ]
   }

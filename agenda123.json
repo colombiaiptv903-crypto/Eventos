@@ -1,129 +1,129 @@
 [
   {
-    "titulo": "Liga Argentina: Barracas Central vs Belgrano (Córdoba)",
-    "hora": "13:00",
-    "fecha": "2026-04-20",
+    "titulo": "La Liga: Athletic Club vs Osasuna",
+    "hora": "12:00",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
-      {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Lecce vs Fiorentina",
-    "hora": "13:45",
-    "fecha": "2026-04-20",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Premier League: Crystal Palace vs West Ham United",
-    "hora": "14:00",
-    "fecha": "2026-04-20",
+    "titulo": "La Liga: Mallorca vs Valencia",
+    "hora": "12:00",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Banfield vs Independiente Rivadavia",
-    "hora": "15:15",
-    "fecha": "2026-04-20",
+    "titulo": "La Liga: Girona vs Real Betis",
+    "hora": "14:30",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Central Córdoba (Santiago del Estero) vs Platense",
-    "hora": "15:15",
-    "fecha": "2026-04-20",
+    "titulo": "La Liga: Real Madrid vs Alavés",
+    "hora": "14:30",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: San Lorenzo vs Vélez Sarsfield",
-    "hora": "17:30",
-    "fecha": "2026-04-20",
+    "titulo": "Liga MX: Pumas UNAM vs FC Juarez",
+    "hora": "20:00",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "TUDN",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Gimnasia (Mendoza) vs Lanús",
-    "hora": "19:45",
-    "fecha": "2026-04-20",
+    "titulo": "Liga MX: Querétaro vs Cruz Azul",
+    "hora": "20:00",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "TUDN",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Tigre vs Huracán",
-    "hora": "19:45",
-    "fecha": "2026-04-20",
+    "titulo": "Liga MX: Monterrey vs Puebla",
+    "hora": "22:05",
+    "fecha": "2026-04-21",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports AR",
-        "iframe": "http://live.btv.mx:2424/stream/285432/smAVz_uhytj5REM-4pYNZbkrcB2"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "TUDN",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: León vs América",
+    "hora": "22:06",
+    "fecha": "2026-04-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

@@ -1,129 +1,177 @@
 [
   {
-    "titulo": "La Liga: Athletic Club vs Osasuna",
+    "titulo": "Ligue 1: Paris Saint-Germain vs Nantes",
     "hora": "12:00",
-    "fecha": "2026-04-21",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       }
     ]
   },
   {
-    "titulo": "La Liga: Mallorca vs Valencia",
-    "hora": "12:00",
-    "fecha": "2026-04-21",
+    "titulo": "Liga BetPlay: Independiente Medellín vs Boyacá Chicó",
+    "hora": "18:20",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "Win Sports +",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
       }
     ]
   },
   {
-    "titulo": "La Liga: Girona vs Real Betis",
-    "hora": "14:30",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: Columbus Crew vs LA Galaxy",
+    "hora": "18:30",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "La Liga: Real Madrid vs Alavés",
-    "hora": "14:30",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: New York City FC vs FC Cincinnati",
+    "hora": "18:30",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga MX: Pumas UNAM vs FC Juarez",
-    "hora": "20:00",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: Orlando City SC vs Charlotte FC",
+    "hora": "18:30",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga MX: Querétaro vs Cruz Azul",
-    "hora": "20:00",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: Red Bull New York vs D.C. United",
+    "hora": "18:30",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga MX: Monterrey vs Puebla",
-    "hora": "22:05",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: Toronto FC vs Philadelphia Union",
+    "hora": "18:30",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga MX: León vs América",
-    "hora": "22:06",
-    "fecha": "2026-04-21",
+    "titulo": "MLS: Atlanta United FC vs New England Revolution",
+    "hora": "18:45",
+    "fecha": "2026-04-22",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: FC Dallas vs Minnesota United FC",
+    "hora": "19:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Houston Dynamo FC vs San Diego FC",
+    "hora": "19:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Fortaleza CEIF vs América de Cali",
+    "hora": "20:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
       },
       {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
+        "nombre": "Win Sports +",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Real Salt Lake vs Inter Miami CF",
+    "hora": "20:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: LAFC vs Colorado Rapids",
+    "hora": "21:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: San Jose Earthquakes vs Austin FC",
+    "hora": "21:30",
+    "fecha": "2026-04-22",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       }
     ]
   }

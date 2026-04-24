@@ -1,8 +1,68 @@
 [
   {
-    "titulo": "Liga Argentina: Defensa y Justicia vs Boca Juniors",
-    "hora": "18:00",
-    "fecha": "2026-04-23",
+    "titulo": "Bundesliga: RB Leipzig vs 1. FC Union Berlin",
+    "hora": "13:30",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
+      },
+      {
+        "nombre": "ESPN 5 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn5"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Napoli vs Cremonese",
+    "hora": "13:45",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Brest vs Lens",
+    "hora": "13:45",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Sunderland vs Nottingham Forest",
+    "hora": "14:00",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Deportivo Riestra vs Independiente",
+    "hora": "15:00",
+    "fecha": "2026-04-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -12,6 +72,110 @@
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Rosario Central",
+    "hora": "17:15",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Lanús vs Central Córdoba (Santiago del Estero)",
+    "hora": "17:15",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B Colombia: Tigres vs Internacional FC de Palmira",
+    "hora": "18:10",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Platense vs San Lorenzo",
+    "hora": "19:30",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Racing Club vs Barracas Central",
+    "hora": "19:30",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B Colombia: Deportes Quindío vs Envigado",
+    "hora": "20:15",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Puebla vs Querétaro",
+    "hora": "22:00",
+    "fecha": "2026-04-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

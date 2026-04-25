@@ -1,30 +1,34 @@
 [
   {
-    "titulo": "Bundesliga: RB Leipzig vs 1. FC Union Berlin",
+    "titulo": "MLS: Toronto FC vs Atlanta United FC",
+    "hora": "12:00",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: CF Montréal vs New York City FC",
     "hora": "13:30",
-    "fecha": "2026-04-24",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 4 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
-      },
-      {
-        "nombre": "ESPN 5 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn5"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       }
     ]
   },
   {
-    "titulo": "Serie A: Napoli vs Cremonese",
-    "hora": "13:45",
-    "fecha": "2026-04-24",
+    "titulo": "MLS: Minnesota United FC vs LAFC",
+    "hora": "15:45",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
@@ -32,42 +36,14 @@
     ]
   },
   {
-    "titulo": "Ligue 1: Brest vs Lens",
-    "hora": "13:45",
-    "fecha": "2026-04-24",
+    "titulo": "Brasileirao: Bahia vs Santos",
+    "hora": "16:30",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Sunderland vs Nottingham Forest",
-    "hora": "14:00",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Deportivo Riestra vs Independiente",
-    "hora": "15:00",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -76,14 +52,14 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Rosario Central",
-    "hora": "17:15",
-    "fecha": "2026-04-24",
+    "titulo": "Brasileirao: Botafogo vs Internacional",
+    "hora": "16:30",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -92,14 +68,14 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Lanús vs Central Córdoba (Santiago del Estero)",
-    "hora": "17:15",
-    "fecha": "2026-04-24",
+    "titulo": "Brasileirao: Remo vs Cruzeiro",
+    "hora": "16:30",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -108,74 +84,150 @@
     ]
   },
   {
-    "titulo": "Primera B Colombia: Tigres vs Internacional FC de Palmira",
-    "hora": "18:10",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Platense vs San Lorenzo",
-    "hora": "19:30",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Racing Club vs Barracas Central",
-    "hora": "19:30",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera B Colombia: Deportes Quindío vs Envigado",
-    "hora": "20:15",
-    "fecha": "2026-04-24",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Puebla vs Querétaro",
-    "hora": "22:00",
-    "fecha": "2026-04-24",
+    "titulo": "MLS: Columbus Crew vs Philadelphia Union",
+    "hora": "18:30",
+    "fecha": "2026-04-25",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: D.C. United vs Orlando City SC",
+    "hora": "18:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: FC Cincinnati vs Red Bull New York",
+    "hora": "18:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Inter Miami CF vs New England Revolution",
+    "hora": "18:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: São Paulo vs Mirassol",
+    "hora": "19:00",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Austin FC vs Houston Dynamo FC",
+    "hora": "19:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Chicago Fire FC vs Sporting Kansas City",
+    "hora": "19:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Nashville SC vs Charlotte FC",
+    "hora": "19:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: St. Louis CITY SC vs San Jose Earthquakes",
+    "hora": "19:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: San Diego FC vs Portland Timbers",
+    "hora": "20:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Seattle Sounders FC vs FC Dallas",
+    "hora": "21:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Vancouver Whitecaps vs Colorado Rapids",
+    "hora": "21:30",
+    "fecha": "2026-04-25",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       }
     ]
   }

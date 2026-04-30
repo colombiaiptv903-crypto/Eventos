@@ -1,52 +1,40 @@
 [
   {
-    "titulo": "Champions League: Atlético Madrid vs Arsenal",
+    "titulo": "Europa League: Braga vs SC Freiburg",
     "hora": "14:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       },
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
       }
     ]
   },
   {
-    "titulo": "Primera B Colombia: Envigado vs Tigres",
-    "hora": "15:30",
-    "fecha": "2026-04-29",
+    "titulo": "Europa League: Nottingham Forest vs Aston Villa",
+    "hora": "14:00",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Mirassol vs Always Ready",
-    "hora": "17:00",
-    "fecha": "2026-04-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
       }
     ]
   },
   {
-    "titulo": "Copa Libertadores: Platense vs Independiente Santa Fe",
+    "titulo": "Copa Libertadores: Bolívar vs Fluminense",
     "hora": "17:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +48,25 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Caracas FC vs Racing Club",
+    "titulo": "Copa Libertadores: Independiente Rivadavia vs Deportivo La Guaira",
     "hora": "17:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Carabobo vs Blooming",
+    "hora": "17:00",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -76,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Deportivo Riestra vs Montevideo City Torque",
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Club Olimpia",
     "hora": "17:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -92,85 +96,25 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Juventud vs Academia Puerto Cabello",
-    "hora": "17:00",
-    "fecha": "2026-04-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera B Colombia: Internacional FC de Palmira vs Deportes Quindío",
+    "titulo": "Copa Libertadores: Corinthians vs Peñarol",
     "hora": "19:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Copa Libertadores: Barcelona SC vs Universidad Católica",
+    "titulo": "Copa Sudamericana: Tigre vs América de Cali",
     "hora": "19:00",
-    "fecha": "2026-04-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Cerro Porteño vs Palmeiras",
-    "hora": "19:30",
-    "fecha": "2026-04-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Estudiantes de La Plata vs Flamengo",
-    "hora": "19:30",
-    "fecha": "2026-04-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Cienciano del Cusco vs Atlético-MG",
-    "hora": "19:30",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -184,9 +128,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Palestino vs Grêmio",
+    "titulo": "Copa Sudamericana: Red Bull Bragantino vs River Plate",
     "hora": "19:30",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -200,9 +144,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Universitario vs Nacional",
+    "titulo": "Copa Libertadores: Independiente Medellín vs Cusco FC",
     "hora": "21:00",
-    "fecha": "2026-04-29",
+    "fecha": "2026-04-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -212,6 +156,22 @@
       {
         "nombre": "Directv Sports",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Alianza Atlético vs Macará",
+    "hora": "21:00",
+    "fecha": "2026-04-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
       }
     ]
   }

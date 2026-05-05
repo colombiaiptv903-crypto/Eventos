@@ -1,24 +1,8 @@
 [
   {
-    "titulo": "Premier League: Chelsea vs Nottingham Forest",
-    "hora": "09:00",
-    "fecha": "2026-05-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Cremonese vs Lazio",
-    "hora": "11:30",
-    "fecha": "2026-05-04",
+    "titulo": "Champions League: Arsenal vs Atlético Madrid",
+    "hora": "14:00",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,53 +16,9 @@
     ]
   },
   {
-    "titulo": "Serie A: AS Roma vs Fiorentina",
-    "hora": "13:45",
-    "fecha": "2026-05-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Primera B Colombia: Envigado vs Internacional FC de Palmira",
-    "hora": "14:00",
-    "fecha": "2026-05-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Everton vs Manchester City",
-    "hora": "14:00",
-    "fecha": "2026-05-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Sevilla vs Real Sociedad",
-    "hora": "14:00",
-    "fecha": "2026-05-04",
+    "titulo": "Copa Libertadores: Rosario Central vs Libertad",
+    "hora": "17:00",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -92,74 +32,162 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Gimnasia (Mendoza) vs Defensa y Justicia",
-    "hora": "15:00",
-    "fecha": "2026-05-04",
+    "titulo": "Copa Libertadores: Sporting Cristal vs Palmeiras",
+    "hora": "17:00",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Primera B Colombia: Unión Magdalena vs Barranquilla FC",
-    "hora": "16:00",
-    "fecha": "2026-05-04",
+    "titulo": "Copa Sudamericana: Deportivo Riestra vs Grêmio",
+    "hora": "17:00",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Vélez Sarsfield vs Newell's Old Boys",
-    "hora": "17:15",
-    "fecha": "2026-05-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
       }
     ]
   },
   {
-    "titulo": "Primera B Colombia: Deportes Quindío vs Tigres",
+    "titulo": "Copa Sudamericana: Independiente Petrolero vs Caracas FC",
+    "hora": "17:00",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Juventud vs Atlético-MG",
+    "hora": "17:00",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Barcelona SC vs Boca Juniors",
     "hora": "19:00",
-    "fecha": "2026-05-04",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Instituto (Córdoba)",
-    "hora": "19:30",
-    "fecha": "2026-05-04",
+    "titulo": "Copa Libertadores: Universidad Central vs Independiente del Valle",
+    "hora": "19:00",
+    "fecha": "2026-05-05",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Always Ready vs Lanús",
+    "hora": "19:30",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Academia Puerto Cabello vs Cienciano del Cusco",
+    "hora": "19:30",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Recoleta vs Santos",
+    "hora": "19:30",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Cuenca vs San Lorenzo",
+    "hora": "21:00",
+    "fecha": "2026-05-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
       }
     ]
   }

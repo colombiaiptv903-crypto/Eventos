@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Champions League: Arsenal vs Atlético Madrid",
+    "titulo": "Champions League: Bayern Munich vs Paris Saint-Germain",
     "hora": "14:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Rosario Central vs Libertad",
+    "titulo": "Copa Libertadores: Cusco FC vs Estudiantes de La Plata",
     "hora": "17:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Sporting Cristal vs Palmeiras",
+    "titulo": "Copa Libertadores: Deportivo La Guaira vs Bolívar",
     "hora": "17:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Deportivo Riestra vs Grêmio",
+    "titulo": "Copa Sudamericana: Audax Italiano vs Vasco da Gama",
     "hora": "17:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Independiente Petrolero vs Caracas FC",
+    "titulo": "Copa Sudamericana: Montevideo City Torque vs Palestino",
     "hora": "17:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,73 +80,25 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Juventud vs Atlético-MG",
-    "hora": "17:00",
-    "fecha": "2026-05-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Barcelona SC vs Boca Juniors",
+    "titulo": "Copa Sudamericana: Barracas Central vs Club Olimpia",
     "hora": "19:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
       }
     ]
   },
   {
-    "titulo": "Copa Libertadores: Universidad Central vs Independiente del Valle",
+    "titulo": "Copa Sudamericana: Macará vs Tigre",
     "hora": "19:00",
-    "fecha": "2026-05-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Always Ready vs Lanús",
-    "hora": "19:30",
-    "fecha": "2026-05-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Academia Puerto Cabello vs Cienciano del Cusco",
-    "hora": "19:30",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -160,9 +112,41 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Deportivo Recoleta vs Santos",
+    "titulo": "Copa Libertadores: Independiente Rivadavia vs Fluminense",
     "hora": "19:30",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Independiente Santa Fe vs Corinthians",
+    "hora": "19:30",
+    "fecha": "2026-05-06",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Botafogo vs Racing Club",
+    "hora": "19:30",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -176,9 +160,41 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Deportivo Cuenca vs San Lorenzo",
+    "titulo": "Copa Libertadores: Deportes Tolima vs Nacional",
     "hora": "21:00",
-    "fecha": "2026-05-05",
+    "fecha": "2026-05-06",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Universidad Católica vs Cruzeiro",
+    "hora": "21:00",
+    "fecha": "2026-05-06",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Alianza Atlético vs América de Cali",
+    "hora": "21:00",
+    "fecha": "2026-05-06",
     "categoria": "Futbol",
     "canales": [
       {

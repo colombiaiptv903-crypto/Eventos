@@ -1,24 +1,40 @@
 [
   {
-    "titulo": "Champions League: Bayern Munich vs Paris Saint-Germain",
+    "titulo": "Europa League: Aston Villa vs Nottingham Forest",
     "hora": "14:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       },
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
       }
     ]
   },
   {
-    "titulo": "Copa Libertadores: Cusco FC vs Estudiantes de La Plata",
+    "titulo": "Europa League: SC Freiburg vs Braga",
+    "hora": "14:00",
+    "fecha": "2026-05-07",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Mirassol vs Liga de Quito",
     "hora": "17:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +48,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Deportivo La Guaira vs Bolívar",
+    "titulo": "Copa Libertadores: Platense vs Peñarol",
     "hora": "17:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,9 +64,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Audax Italiano vs Vasco da Gama",
+    "titulo": "Copa Sudamericana: Boston River vs Millonarios",
     "hora": "17:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -64,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Montevideo City Torque vs Palestino",
+    "titulo": "Copa Sudamericana: O'Higgins vs São Paulo",
     "hora": "17:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,41 +96,25 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Barracas Central vs Club Olimpia",
+    "titulo": "Copa Libertadores: Coquimbo Unido vs Universitario",
     "hora": "19:00",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
       },
       {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Macará vs Tigre",
-    "hora": "19:00",
-    "fecha": "2026-05-06",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Independiente Rivadavia vs Fluminense",
+    "titulo": "Copa Libertadores: Independiente Medellín vs Flamengo",
     "hora": "19:30",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -128,25 +128,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Independiente Santa Fe vs Corinthians",
+    "titulo": "Copa Sudamericana: Blooming vs Red Bull Bragantino",
     "hora": "19:30",
-    "fecha": "2026-05-06",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Botafogo vs Racing Club",
-    "hora": "19:30",
-    "fecha": "2026-05-06",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -160,41 +144,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Deportes Tolima vs Nacional",
-    "hora": "21:00",
-    "fecha": "2026-05-06",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Universidad Católica vs Cruzeiro",
-    "hora": "21:00",
-    "fecha": "2026-05-06",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Alianza Atlético vs América de Cali",
-    "hora": "21:00",
-    "fecha": "2026-05-06",
+    "titulo": "Copa Sudamericana: Carabobo vs River Plate",
+    "hora": "19:30",
+    "fecha": "2026-05-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -204,6 +156,22 @@
       {
         "nombre": "Directv Sports 2",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Atlético Junior vs Cerro Porteño",
+    "hora": "21:00",
+    "fecha": "2026-05-07",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
       }
     ]
   }

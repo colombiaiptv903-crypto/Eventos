@@ -1,40 +1,52 @@
 [
   {
-    "titulo": "Europa League: Aston Villa vs Nottingham Forest",
-    "hora": "14:00",
-    "fecha": "2026-05-07",
+    "titulo": "Bundesliga: Borussia Dortmund vs Eintracht Frankfurt",
+    "hora": "13:30",
+    "fecha": "2026-05-08",
     "categoria": "Futbol",
     "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
       {
         "nombre": "ESPN 4 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
+      },
+      {
+        "nombre": "ESPN 5 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn5"
       }
     ]
   },
   {
-    "titulo": "Europa League: SC Freiburg vs Braga",
+    "titulo": "Serie A: Torino vs Sassuolo",
+    "hora": "13:45",
+    "fecha": "2026-05-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Lens vs Nantes",
+    "hora": "13:45",
+    "fecha": "2026-05-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Levante vs Osasuna",
     "hora": "14:00",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "ESPN 4 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn4"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Mirassol vs Liga de Quito",
-    "hora": "17:00",
-    "fecha": "2026-05-07",
+    "fecha": "2026-05-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,130 +60,26 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Platense vs Peñarol",
+    "titulo": "Primera B Colombia: Barranquilla FC vs Bogotá FC",
     "hora": "17:00",
-    "fecha": "2026-05-07",
+    "fecha": "2026-05-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
       }
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Boston River vs Millonarios",
-    "hora": "17:00",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: O'Higgins vs São Paulo",
-    "hora": "17:00",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Coquimbo Unido vs Universitario",
-    "hora": "19:00",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Independiente Medellín vs Flamengo",
+    "titulo": "Primera B Colombia: Real Cartagena vs Unión Magdalena",
     "hora": "19:30",
-    "fecha": "2026-05-07",
+    "fecha": "2026-05-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Blooming vs Red Bull Bragantino",
-    "hora": "19:30",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Carabobo vs River Plate",
-    "hora": "19:30",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Atlético Junior vs Cerro Porteño",
-    "hora": "21:00",
-    "fecha": "2026-05-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
       }
     ]
   }

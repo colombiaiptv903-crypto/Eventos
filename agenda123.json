@@ -1,40 +1,8 @@
 [
   {
-    "titulo": "Serie A: Napoli vs Bologna",
-    "hora": "13:45",
-    "fecha": "2026-05-11",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Tottenham Hotspur vs Leeds United",
-    "hora": "14:00",
-    "fecha": "2026-05-11",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Rayo Vallecano vs Girona",
-    "hora": "14:00",
-    "fecha": "2026-05-11",
+    "titulo": "La Liga: Celta Vigo vs Levante",
+    "hora": "12:00",
+    "fecha": "2026-05-12",
     "categoria": "Futbol",
     "canales": [
       {
@@ -44,6 +12,114 @@
       {
         "nombre": "Directv Sports",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Real Betis vs Elche",
+    "hora": "13:00",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Osasuna vs Atlético Madrid",
+    "hora": "14:30",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Primera B Colombia: Unión Magdalena vs Real Cartagena",
+    "hora": "16:00",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Belgrano (Córdoba) vs Unión (Santa Fe)",
+    "hora": "17:00",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Atlético Nacional vs Internacional de Bogotá",
+    "hora": "18:20",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "https://tvtvhd.com/vivo/canales.php?stream=winsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Argentinos Juniors vs Huracán",
+    "hora": "19:30",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Independiente Santa Fe vs América de Cali",
+    "hora": "20:30",
+    "fecha": "2026-05-12",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "https://tvtvhd.com/vivo/canales.php?stream=winsports2"
       }
     ]
   }

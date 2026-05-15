@@ -8,7 +8,7 @@
       "categoria": "Fútbol",
       "canales": [
         { "nombre": "Win Sports", "iframe": "http://181.78.8.199:8000/play/a0ic/index.m3u8" },
-        { "nombre": "Win Sports+", "iframe": "http://181.78.7.90:12500/play/a0q3/index.m3u8" }
+        { "nombre": "Win Sports+", "iframe": "https://streamtp-abc.net/global1.php?stream=winplus2" }
       ]
     }
   }

@@ -23,10 +23,18 @@
   "Caracol":            "http://181.78.8.199:8000/play/a0b0/index.m3u8",
   "TUDN":               "http://45.5.119.43:4000/play/a05q/index.m3u8",
   "Bein Sports":        "http://168.228.44.241:9997/play/a06q/index.m3u8",
+  "Bein Sports":        "https://tvtvhd.com/vivo/canales.php?stream=beinsportes",
   "Sport TV":           "https://la14hd.com/vivo/canales.php?stream=sportv",
   "Sport TV 2":         "https://la14hd.com/vivo/canales.php?stream=sportv2",
-  "Fox Sports":         "http://181.78.8.199:8000/play/a0b1/index.m3u8",
+  "Fox Sports":         "https://tvtvhd.com/vivo/canales.php?stream=foxsports",
+  "Fox Sports 2":       "https://streamtp-abc.net/global1.php?stream=fox2ar",
+  "Fox Sports 3":       "https://streamtp-abc.net/global1.php?stream=fox3ar",
   "L1 Max":             "http://181.78.73.64:8000/play/a2lc/index.m3u8",
   "Sky Sports":         "http://45.5.119.43:4000/play/a05r/index.m3u8",
-  "Teleantioquia":      "http://181.78.8.199:8000/play/a0dd/index.m3u8"
+  "Premiere 1":         "https://streamtp-abc.net/global1.php?stream=premiere1"
+  "Premiere 2":         "https://streamtp-abc.net/global1.php?stream=premiere2"
+  "Premiere 2":         "https://streamtp-abc.net/global1.php?stream=premiere3"
+  "ESPN 1 NL":         "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
+  "ESPN 2 NL":         "https://tvtvhd.com/vivo/canales.php?stream=espn2_nl"
+  "ESPN 3 NL":         "https://tvtvhd.com/vivo/canales.php?stream=espn3_nl"
 }

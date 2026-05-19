@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Premier League: Arsenal vs Burnley",
-    "hora": "14:00",
-    "fecha": "2026-05-18",
+    "titulo": "Premier League: AFC Bournemouth vs Manchester City",
+    "hora": "13:30",
+    "fecha": "2026-05-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,26 +16,210 @@
     ]
   },
   {
-    "titulo": "Primera B Colombia: Envigado vs Deportes Quindío",
-    "hora": "15:00",
-    "fecha": "2026-05-18",
+    "titulo": "Premier League: Chelsea vs Tottenham Hotspur",
+    "hora": "14:15",
+    "fecha": "2026-05-19",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
       }
     ]
   },
   {
-    "titulo": "Primera B Colombia: Internacional FC de Palmira vs Tigres",
-    "hora": "19:00",
-    "fecha": "2026-05-18",
+    "titulo": "Copa Libertadores: Coquimbo Unido vs Deportes Tolima",
+    "hora": "17:00",
+    "fecha": "2026-05-19",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Fluminense vs Bolívar",
+    "hora": "17:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Rosario Central vs Universidad Central",
+    "hora": "17:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Audax Italiano vs Barracas Central",
+    "hora": "17:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Montevideo City Torque vs Deportivo Riestra",
+    "hora": "17:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Always Ready vs Mirassol",
+    "hora": "19:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Independiente Santa Fe vs Platense",
+    "hora": "19:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Boca Juniors vs Cruzeiro",
+    "hora": "19:30",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: São Paulo vs Millonarios",
+    "hora": "19:30",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Independiente del Valle vs Libertad",
+    "hora": "21:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: América de Cali vs Tigre",
+    "hora": "21:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Deportivo Cuenca vs Deportivo Recoleta",
+    "hora": "21:00",
+    "fecha": "2026-05-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
       }
     ]
   }

@@ -1,145 +1,17 @@
 [
   {
-    "titulo": "Copa Libertadores: Deportivo La Guaira vs Independiente Rivadavia",
-    "hora": "17:00",
-    "fecha": "2026-05-21",
+    "titulo": "Serie A: Fiorentina vs Atalanta",
+    "hora": "13:45",
+    "fecha": "2026-05-22",
     "categoria": "Futbol",
     "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Academia Puerto Cabello vs Juventud",
-    "hora": "17:00",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Atlético-MG vs Cienciano del Cusco",
-    "hora": "17:00",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Racing Club vs Caracas FC",
-    "hora": "19:00",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Peñarol vs Corinthians",
-    "hora": "19:30",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Universidad Católica vs Barcelona SC",
-    "hora": "19:30",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Blooming vs Carabobo",
-    "hora": "19:30",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Macará vs Alianza Atlético",
-    "hora": "21:00",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn3"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Cruz Azul vs Pumas UNAM",
-    "hora": "21:00",
-    "fecha": "2026-05-21",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

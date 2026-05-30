@@ -1,13 +1,97 @@
 [
   {
-    "titulo": "Primera B Colombia: Envigado vs Real Cartagena",
-    "hora": "15:00",
-    "fecha": "2026-05-29",
+    "titulo": "Champions League: Paris Saint-Germain vs Arsenal",
+    "hora": "11:00",
+    "fecha": "2026-05-30",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Athletico-PR vs Mirassol",
+    "hora": "14:00",
+    "fecha": "2026-05-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Flamengo vs Coritiba",
+    "hora": "14:00",
+    "fecha": "2026-05-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Bahia vs Botafogo",
+    "hora": "15:30",
+    "fecha": "2026-05-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Grêmio vs Corinthians",
+    "hora": "15:30",
+    "fecha": "2026-05-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Santos vs Vitória",
+    "hora": "18:00",
+    "fecha": "2026-05-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
       }
     ]
   }

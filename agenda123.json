@@ -1,24 +1,24 @@
 [
   {
-    "titulo": "Champions League: Paris Saint-Germain vs Arsenal",
-    "hora": "11:00",
-    "fecha": "2026-05-30",
+    "titulo": "Brasileirao: Red Bull Bragantino vs Internacional",
+    "hora": "09:00",
+    "fecha": "2026-05-31",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "nombre": "Sport TV",
+        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
       },
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=espn2"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Athletico-PR vs Mirassol",
+    "titulo": "Brasileirao: Palmeiras vs Chapecoense",
     "hora": "14:00",
-    "fecha": "2026-05-30",
+    "fecha": "2026-05-31",
     "categoria": "Futbol",
     "canales": [
       {
@@ -27,14 +27,14 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Flamengo vs Coritiba",
+    "titulo": "Brasileirao: Vasco da Gama vs Atlético-MG",
     "hora": "14:00",
-    "fecha": "2026-05-30",
+    "fecha": "2026-05-31",
     "categoria": "Futbol",
     "canales": [
       {
@@ -43,14 +43,14 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Bahia vs Botafogo",
-    "hora": "15:30",
-    "fecha": "2026-05-30",
+    "titulo": "Brasileirao: Cruzeiro vs Fluminense",
+    "hora": "18:30",
+    "fecha": "2026-05-31",
     "categoria": "Futbol",
     "canales": [
       {
@@ -59,14 +59,14 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Grêmio vs Corinthians",
-    "hora": "15:30",
-    "fecha": "2026-05-30",
+    "titulo": "Brasileirao: Remo vs São Paulo",
+    "hora": "18:30",
+    "fecha": "2026-05-31",
     "categoria": "Futbol",
     "canales": [
       {
@@ -75,23 +75,7 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Santos vs Vitória",
-    "hora": "18:00",
-    "fecha": "2026-05-30",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
       }
     ]
   }

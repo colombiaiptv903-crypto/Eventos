@@ -1,18 +1,1 @@
-[
-  {
-    "titulo": "Liga BetPlay: Atlético Nacional vs Atlético Junior",
-    "hora": "17:00",
-    "fecha": "2026-06-08",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "https://la14hd.com/vivo/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "https://tvtvhd.com/vivo/canales.php?stream=winsports2"
-      }
-    ]
-  }
-]
+[]

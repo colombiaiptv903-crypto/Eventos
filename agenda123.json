@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "titulo": "Copa del Mundo: Mexico vs South Africa",
+    "hora": "14:00",
+    "fecha": "2026-06-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://190.60.57.58:8000/play/a16r/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: South Korea vs Czechia",
+    "hora": "21:00",
+    "fecha": "2026-06-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://190.60.57.58:8000/play/a16r/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://liontv.es:80/live/NESTORCHI/GRETF/74.ts"
+      }
+    ]
+  }
+]

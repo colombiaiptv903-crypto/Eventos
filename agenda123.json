@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Canada vs Bosnia-Herzegovina",
+    "titulo": "Copa del Mundo: Qatar vs Switzerland",
     "hora": "14:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "categoria": "Futbol",
     "canales": [
       {
@@ -15,14 +15,14 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://186.148.163.17:8000/play/a008/index.m3u8"
+        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Copa del Mundo: United States vs Paraguay",
-    "hora": "20:00",
-    "fecha": "2026-06-12",
+    "titulo": "Copa del Mundo: Brazil vs Morocco",
+    "hora": "17:00",
+    "fecha": "2026-06-13",
     "categoria": "Futbol",
     "canales": [
       {
@@ -35,7 +35,27 @@
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://186.148.163.17:8000/play/a008/index.m3u8"
+        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Haiti vs Scotland",
+    "hora": "20:00",
+    "fecha": "2026-06-13",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://190.60.39.221:8000/play/a00b/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
       }
     ]
   }

@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Qatar vs Switzerland",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
+    "titulo": "Copa del Mundo: Germany vs Curaçao",
+    "hora": "12:00",
+    "fecha": "2026-06-14",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Brazil vs Morocco",
-    "hora": "17:00",
-    "fecha": "2026-06-13",
+    "titulo": "Copa del Mundo: Netherlands vs Japan",
+    "hora": "15:00",
+    "fecha": "2026-06-14",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,29 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Haiti vs Scotland",
-    "hora": "20:00",
-    "fecha": "2026-06-13",
+    "titulo": "Copa del Mundo: Ivory Coast vs Ecuador",
+    "hora": "18:00",
+    "fecha": "2026-06-14",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://190.60.39.221:8000/play/a00b/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Sweden vs Tunisia",
+    "hora": "21:00",
+    "fecha": "2026-06-14",
     "categoria": "Futbol",
     "canales": [
       {

@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Germany vs Curaçao",
-    "hora": "12:00",
-    "fecha": "2026-06-14",
+    "titulo": "Copa del Mundo: Spain vs Cape Verde",
+    "hora": "11:00",
+    "fecha": "2026-06-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Netherlands vs Japan",
-    "hora": "15:00",
-    "fecha": "2026-06-14",
+    "titulo": "Copa del Mundo: Belgium vs Egypt",
+    "hora": "14:00",
+    "fecha": "2026-06-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Ivory Coast vs Ecuador",
-    "hora": "18:00",
-    "fecha": "2026-06-14",
+    "titulo": "Copa del Mundo: Saudi Arabia vs Uruguay",
+    "hora": "17:00",
+    "fecha": "2026-06-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Sweden vs Tunisia",
-    "hora": "21:00",
-    "fecha": "2026-06-14",
+    "titulo": "Copa del Mundo: Iran vs New Zealand",
+    "hora": "20:00",
+    "fecha": "2026-06-15",
     "categoria": "Futbol",
     "canales": [
       {

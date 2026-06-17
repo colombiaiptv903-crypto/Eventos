@@ -1,61 +1,81 @@
 [
   {
-    "titulo": "Copa del Mundo: France vs Senegal",
-    "hora": "14:00",
-    "fecha": "2026-06-16",
+    "titulo": "Copa del Mundo: Portugal vs Congo DR",
+    "hora": "12:00",
+    "fecha": "2026-06-17",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "RCN",
-        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://190.60.39.221:8000/play/a00b/index.m3u8"
+        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
       }
     ]
   },
   {
-    "titulo": "Copa del Mundo: Iraq vs Norway",
-    "hora": "17:00",
-    "fecha": "2026-06-16",
+    "titulo": "Copa del Mundo: England vs Croatia",
+    "hora": "15:00",
+    "fecha": "2026-06-17",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "RCN",
-        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://190.60.39.221:8000/play/a00b/index.m3u8"
+        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
       }
     ]
   },
   {
-    "titulo": "Copa del Mundo: Argentina vs Algeria",
-    "hora": "20:00",
-    "fecha": "2026-06-16",
+    "titulo": "Copa del Mundo: Ghana vs Panama",
+    "hora": "18:00",
+    "fecha": "2026-06-17",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "RCN",
-        "iframe": "http://190.60.57.58:8000/play/a16p/index.m3u8"
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://190.60.39.221:8000/play/a00b/index.m3u8"
+        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
       },
       {
         "nombre": "Espn 1 (Col)",
-        "iframe": "http://181.78.14.26:4000/play/a009/index.m3u8"
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Uzbekistan vs Colombia",
+    "hora": "21:00",
+    "fecha": "2026-06-17",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
       }
     ]
   }

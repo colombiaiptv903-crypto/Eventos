@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Portugal vs Congo DR",
-    "hora": "12:00",
-    "fecha": "2026-06-17",
+    "titulo": "Copa del Mundo: Czechia vs South Africa",
+    "hora": "11:00",
+    "fecha": "2026-06-18",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: England vs Croatia",
-    "hora": "15:00",
-    "fecha": "2026-06-17",
+    "titulo": "Copa del Mundo: Switzerland vs Bosnia-Herzegovina",
+    "hora": "14:00",
+    "fecha": "2026-06-18",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Ghana vs Panama",
-    "hora": "18:00",
-    "fecha": "2026-06-17",
+    "titulo": "Copa del Mundo: Canada vs Qatar",
+    "hora": "17:00",
+    "fecha": "2026-06-18",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Uzbekistan vs Colombia",
-    "hora": "21:00",
-    "fecha": "2026-06-17",
+    "titulo": "Copa del Mundo: Mexico vs South Korea",
+    "hora": "20:00",
+    "fecha": "2026-06-18",
     "categoria": "Futbol",
     "canales": [
       {

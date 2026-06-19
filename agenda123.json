@@ -1,28 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Czechia vs South Africa",
-    "hora": "11:00",
-    "fecha": "2026-06-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "RCN",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
-      },
-      {
-        "nombre": "Caracol",
-        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Switzerland vs Bosnia-Herzegovina",
+    "titulo": "Copa del Mundo: United States vs Australia",
     "hora": "14:00",
-    "fecha": "2026-06-18",
+    "fecha": "2026-06-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Canada vs Qatar",
+    "titulo": "Copa del Mundo: Scotland vs Morocco",
     "hora": "17:00",
-    "fecha": "2026-06-18",
+    "fecha": "2026-06-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +40,29 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Mexico vs South Korea",
-    "hora": "20:00",
-    "fecha": "2026-06-18",
+    "titulo": "Copa del Mundo: Brazil vs Haiti",
+    "hora": "19:30",
+    "fecha": "2026-06-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Türkiye vs Paraguay",
+    "hora": "22:00",
+    "fecha": "2026-06-19",
     "categoria": "Futbol",
     "canales": [
       {

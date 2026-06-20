@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: United States vs Australia",
-    "hora": "14:00",
-    "fecha": "2026-06-19",
+    "titulo": "Copa del Mundo: Netherlands vs Sweden",
+    "hora": "12:00",
+    "fecha": "2026-06-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
+        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Scotland vs Morocco",
-    "hora": "17:00",
-    "fecha": "2026-06-19",
+    "titulo": "Copa del Mundo: Germany vs Ivory Coast",
+    "hora": "15:00",
+    "fecha": "2026-06-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -31,7 +31,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
+        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Brazil vs Haiti",
-    "hora": "19:30",
-    "fecha": "2026-06-19",
+    "titulo": "Copa del Mundo: Ecuador vs Curaçao",
+    "hora": "19:00",
+    "fecha": "2026-06-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -51,27 +51,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Türkiye vs Paraguay",
-    "hora": "22:00",
-    "fecha": "2026-06-19",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "RCN",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
-      },
-      {
-        "nombre": "Caracol",
-        "iframe": "http://138.94.3.106:8000/play/a04w/index.m3u8"
+        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
       },
       {
         "nombre": "Espn 1 (Col)",

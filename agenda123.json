@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Netherlands vs Sweden",
-    "hora": "12:00",
-    "fecha": "2026-06-20",
+    "titulo": "Copa del Mundo: Spain vs Saudi Arabia",
+    "hora": "11:00",
+    "fecha": "2026-06-21",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Germany vs Ivory Coast",
-    "hora": "15:00",
-    "fecha": "2026-06-20",
+    "titulo": "Copa del Mundo: Belgium vs Iran",
+    "hora": "14:00",
+    "fecha": "2026-06-21",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,29 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Ecuador vs Curaçao",
-    "hora": "19:00",
-    "fecha": "2026-06-20",
+    "titulo": "Copa del Mundo: Uruguay vs Cape Verde",
+    "hora": "17:00",
+    "fecha": "2026-06-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: New Zealand vs Egypt",
+    "hora": "20:00",
+    "fecha": "2026-06-21",
     "categoria": "Futbol",
     "canales": [
       {

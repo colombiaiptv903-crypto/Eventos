@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Spain vs Saudi Arabia",
-    "hora": "11:00",
-    "fecha": "2026-06-21",
+    "titulo": "Copa del Mundo: Argentina vs Austria",
+    "hora": "12:00",
+    "fecha": "2026-06-22",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Belgium vs Iran",
-    "hora": "14:00",
-    "fecha": "2026-06-21",
+    "titulo": "Copa del Mundo: France vs Iraq",
+    "hora": "16:00",
+    "fecha": "2026-06-22",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Uruguay vs Cape Verde",
-    "hora": "17:00",
-    "fecha": "2026-06-21",
+    "titulo": "Copa del Mundo: Norway vs Senegal",
+    "hora": "19:00",
+    "fecha": "2026-06-22",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: New Zealand vs Egypt",
-    "hora": "20:00",
-    "fecha": "2026-06-21",
+    "titulo": "Copa del Mundo: Jordan vs Algeria",
+    "hora": "22:00",
+    "fecha": "2026-06-22",
     "categoria": "Futbol",
     "canales": [
       {

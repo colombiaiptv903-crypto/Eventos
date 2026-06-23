@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Argentina vs Austria",
+    "titulo": "Copa del Mundo: Portugal vs Uzbekistan",
     "hora": "12:00",
-    "fecha": "2026-06-22",
+    "fecha": "2026-06-23",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: France vs Iraq",
-    "hora": "16:00",
-    "fecha": "2026-06-22",
+    "titulo": "Copa del Mundo: England vs Ghana",
+    "hora": "15:00",
+    "fecha": "2026-06-23",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Norway vs Senegal",
-    "hora": "19:00",
-    "fecha": "2026-06-22",
+    "titulo": "Copa del Mundo: Panama vs Croatia",
+    "hora": "18:00",
+    "fecha": "2026-06-23",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Jordan vs Algeria",
-    "hora": "22:00",
-    "fecha": "2026-06-22",
+    "titulo": "Copa del Mundo: Colombia vs Congo DR",
+    "hora": "21:00",
+    "fecha": "2026-06-23",
     "categoria": "Futbol",
     "canales": [
       {

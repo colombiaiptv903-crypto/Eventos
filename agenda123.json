@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Portugal vs Uzbekistan",
-    "hora": "12:00",
-    "fecha": "2026-06-23",
+    "titulo": "Copa del Mundo: Bosnia-Herzegovina vs Qatar",
+    "hora": "14:00",
+    "fecha": "2026-06-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: England vs Ghana",
-    "hora": "15:00",
-    "fecha": "2026-06-23",
+    "titulo": "Copa del Mundo: Switzerland vs Canada",
+    "hora": "14:00",
+    "fecha": "2026-06-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -31,7 +31,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Panama vs Croatia",
-    "hora": "18:00",
-    "fecha": "2026-06-23",
+    "titulo": "Copa del Mundo: Morocco vs Haiti",
+    "hora": "17:00",
+    "fecha": "2026-06-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -51,7 +51,7 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Colombia vs Congo DR",
-    "hora": "21:00",
-    "fecha": "2026-06-23",
+    "titulo": "Copa del Mundo: Scotland vs Brazil",
+    "hora": "17:00",
+    "fecha": "2026-06-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -71,7 +71,47 @@
       },
       {
         "nombre": "Caracol",
-        "iframe": "http://smarterstv99.dyndns.tv:8000/live/omioshun/zMUV4JrK4VSE/334626.ts"
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Czechia vs Mexico",
+    "hora": "20:00",
+    "fecha": "2026-06-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: South Africa vs South Korea",
+    "hora": "20:00",
+    "fecha": "2026-06-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "https://pelisjuanita.com/tv/jwplayer.php?id=Caracol%20TV%20Internacional"
       },
       {
         "nombre": "Espn 1 (Col)",

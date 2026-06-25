@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Bosnia-Herzegovina vs Qatar",
-    "hora": "14:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Curaçao vs Ivory Coast",
+    "hora": "15:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Switzerland vs Canada",
-    "hora": "14:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Ecuador vs Germany",
+    "hora": "15:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Morocco vs Haiti",
-    "hora": "17:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Japan vs Sweden",
+    "hora": "18:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Scotland vs Brazil",
-    "hora": "17:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Tunisia vs Netherlands",
+    "hora": "18:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Czechia vs Mexico",
-    "hora": "20:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Paraguay vs Australia",
+    "hora": "21:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {
@@ -100,9 +100,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: South Africa vs South Korea",
-    "hora": "20:00",
-    "fecha": "2026-06-24",
+    "titulo": "Copa del Mundo: Türkiye vs United States",
+    "hora": "21:00",
+    "fecha": "2026-06-25",
     "categoria": "Futbol",
     "canales": [
       {

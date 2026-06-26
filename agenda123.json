@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Curaçao vs Ivory Coast",
-    "hora": "15:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: Norway vs France",
+    "hora": "14:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Ecuador vs Germany",
-    "hora": "15:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: Senegal vs Iraq",
+    "hora": "14:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Japan vs Sweden",
-    "hora": "18:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: Cape Verde vs Saudi Arabia",
+    "hora": "19:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Tunisia vs Netherlands",
-    "hora": "18:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: Uruguay vs Spain",
+    "hora": "19:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Paraguay vs Australia",
-    "hora": "21:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: Egypt vs Iran",
+    "hora": "22:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {
@@ -100,9 +100,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Türkiye vs United States",
-    "hora": "21:00",
-    "fecha": "2026-06-25",
+    "titulo": "Copa del Mundo: New Zealand vs Belgium",
+    "hora": "22:00",
+    "fecha": "2026-06-26",
     "categoria": "Futbol",
     "canales": [
       {

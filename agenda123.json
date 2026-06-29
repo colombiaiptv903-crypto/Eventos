@@ -1,8 +1,48 @@
 [
   {
-    "titulo": "Copa del Mundo: South Africa vs Canada",
-    "hora": "14:00",
-    "fecha": "2026-06-28",
+    "titulo": "Copa del Mundo: Brazil vs Japan",
+    "hora": "12:00",
+    "fecha": "2026-06-29",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://181.78.14.26:4000/play/a02r/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Germany vs Paraguay",
+    "hora": "15:30",
+    "fecha": "2026-06-29",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://181.78.14.26:4000/play/a02r/index.m3u8"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa del Mundo: Netherlands vs Morocco",
+    "hora": "20:00",
+    "fecha": "2026-06-29",
     "categoria": "Futbol",
     "canales": [
       {

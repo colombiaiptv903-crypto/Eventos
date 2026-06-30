@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Brazil vs Japan",
+    "titulo": "Copa del Mundo: Ivory Coast vs Norway",
     "hora": "12:00",
-    "fecha": "2026-06-29",
+    "fecha": "2026-06-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Germany vs Paraguay",
-    "hora": "15:30",
-    "fecha": "2026-06-29",
+    "titulo": "Copa del Mundo: France vs Sweden",
+    "hora": "16:00",
+    "fecha": "2026-06-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Netherlands vs Morocco",
+    "titulo": "Copa del Mundo: Mexico vs Ecuador",
     "hora": "20:00",
-    "fecha": "2026-06-29",
+    "fecha": "2026-06-30",
     "categoria": "Futbol",
     "canales": [
       {

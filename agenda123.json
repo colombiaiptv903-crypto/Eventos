@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: England vs Congo DR",
-    "hora": "11:00",
-    "fecha": "2026-07-01",
+    "titulo": "Copa del Mundo: Spain vs Austria",
+    "hora": "14:00",
+    "fecha": "2026-07-02",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Belgium vs Senegal",
-    "hora": "15:00",
-    "fecha": "2026-07-01",
+    "titulo": "Copa del Mundo: Portugal vs Croatia",
+    "hora": "18:00",
+    "fecha": "2026-07-02",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: United States vs Bosnia-Herzegovina",
-    "hora": "19:00",
-    "fecha": "2026-07-01",
+    "titulo": "Copa del Mundo: Switzerland vs Algeria",
+    "hora": "22:00",
+    "fecha": "2026-07-02",
     "categoria": "Futbol",
     "canales": [
       {

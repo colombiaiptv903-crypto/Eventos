@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Spain vs Austria",
-    "hora": "14:00",
-    "fecha": "2026-07-02",
+    "titulo": "Copa del Mundo: Australia vs Egypt",
+    "hora": "13:00",
+    "fecha": "2026-07-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Portugal vs Croatia",
-    "hora": "18:00",
-    "fecha": "2026-07-02",
+    "titulo": "Copa del Mundo: Argentina vs Cape Verde",
+    "hora": "17:00",
+    "fecha": "2026-07-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -40,9 +40,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Switzerland vs Algeria",
-    "hora": "22:00",
-    "fecha": "2026-07-02",
+    "titulo": "Copa del Mundo: Colombia vs Ghana",
+    "hora": "20:30",
+    "fecha": "2026-07-03",
     "categoria": "Futbol",
     "canales": [
       {

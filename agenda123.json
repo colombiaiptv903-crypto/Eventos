@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Australia vs Egypt",
-    "hora": "13:00",
-    "fecha": "2026-07-03",
+    "titulo": "Copa del Mundo: Canada vs Morocco",
+    "hora": "12:00",
+    "fecha": "2026-07-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,29 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Argentina vs Cape Verde",
-    "hora": "17:00",
-    "fecha": "2026-07-03",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "RCN",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
-      },
-      {
-        "nombre": "Caracol",
-        "iframe": "http://181.78.14.26:4000/play/a02r/index.m3u8"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa del Mundo: Colombia vs Ghana",
-    "hora": "20:30",
-    "fecha": "2026-07-03",
+    "titulo": "Copa del Mundo: Paraguay vs France",
+    "hora": "16:00",
+    "fecha": "2026-07-04",
     "categoria": "Futbol",
     "canales": [
       {

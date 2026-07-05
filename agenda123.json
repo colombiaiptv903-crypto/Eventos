@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Canada vs Morocco",
-    "hora": "12:00",
-    "fecha": "2026-07-04",
+    "titulo": "Copa del Mundo: Brazil vs Norway",
+    "hora": "15:00",
+    "fecha": "2026-07-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Paraguay vs France",
-    "hora": "16:00",
-    "fecha": "2026-07-04",
+    "titulo": "Copa del Mundo: Mexico vs England",
+    "hora": "19:00",
+    "fecha": "2026-07-05",
     "categoria": "Futbol",
     "canales": [
       {

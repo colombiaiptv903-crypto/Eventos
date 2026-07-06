@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Brazil vs Norway",
-    "hora": "15:00",
-    "fecha": "2026-07-05",
+    "titulo": "Copa del Mundo: Portugal vs Spain",
+    "hora": "14:00",
+    "fecha": "2026-07-06",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: Mexico vs England",
+    "titulo": "Copa del Mundo: United States vs Belgium",
     "hora": "19:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "categoria": "Futbol",
     "canales": [
       {

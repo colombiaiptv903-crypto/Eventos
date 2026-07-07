@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Copa del Mundo: Portugal vs Spain",
-    "hora": "14:00",
-    "fecha": "2026-07-06",
+    "titulo": "Copa del Mundo: Argentina vs Egypt",
+    "hora": "11:00",
+    "fecha": "2026-07-07",
     "categoria": "Futbol",
     "canales": [
       {
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "titulo": "Copa del Mundo: United States vs Belgium",
-    "hora": "19:00",
-    "fecha": "2026-07-06",
+    "titulo": "Copa del Mundo: Switzerland vs Colombia",
+    "hora": "15:00",
+    "fecha": "2026-07-07",
     "categoria": "Futbol",
     "canales": [
       {

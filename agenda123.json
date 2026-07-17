@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Brasileirao: Botafogo vs Santos",
+    "titulo": "Brasileirao: Bahia vs Chapecoense",
     "hora": "17:30",
-    "fecha": "2026-07-16",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Vitória vs Vasco da Gama",
-    "hora": "17:30",
-    "fecha": "2026-07-16",
+    "titulo": "Brasileirao: Fluminense vs Red Bull Bragantino",
+    "hora": "18:00",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,25 @@
     ]
   },
   {
-    "titulo": "MLS: CF Montréal vs Toronto FC",
-    "hora": "18:30",
-    "fecha": "2026-07-16",
+    "titulo": "Brasileirao: Mirassol vs Grêmio",
+    "hora": "18:00",
+    "fecha": "2026-07-17",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Nashville SC vs Atlanta United FC",
+    "hora": "19:10",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -44,33 +60,9 @@
     ]
   },
   {
-    "titulo": "MLS: Chicago Fire FC vs Vancouver Whitecaps",
-    "hora": "19:30",
-    "fecha": "2026-07-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: St. Louis CITY SC vs Sporting Kansas City",
-    "hora": "19:30",
-    "fecha": "2026-07-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Necaxa vs Atlante",
+    "titulo": "Liga MX: Atlético de San Luis vs Cruz Azul",
     "hora": "20:00",
-    "fecha": "2026-07-16",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -84,9 +76,25 @@
     ]
   },
   {
-    "titulo": "MLS: Seattle Sounders FC vs Portland Timbers",
-    "hora": "21:30",
-    "fecha": "2026-07-16",
+    "titulo": "Liga MX: León vs Atlas",
+    "hora": "20:00",
+    "fecha": "2026-07-17",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: LA Galaxy vs LAFC",
+    "hora": "21:25",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -96,9 +104,9 @@
     ]
   },
   {
-    "titulo": "Liga MX: Tijuana vs Tigres UANL",
-    "hora": "22:10",
-    "fecha": "2026-07-16",
+    "titulo": "Liga MX: FC Juarez vs Puebla",
+    "hora": "22:00",
+    "fecha": "2026-07-17",
     "categoria": "Futbol",
     "canales": [
       {

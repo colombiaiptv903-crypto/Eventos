@@ -1,121 +1,21 @@
 [
   {
-    "titulo": "Brasileirao: Bahia vs Chapecoense",
-    "hora": "17:30",
-    "fecha": "2026-07-17",
+    "titulo": "Copa del Mundo: France vs England",
+    "hora": "16:00",
+    "fecha": "2026-07-18",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "RCN",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0b5/index.m3u8"
+      },
+      {
+        "nombre": "Caracol",
+        "iframe": "http://181.78.14.26:4000/play/a02r/index.m3u8"
       },
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Fluminense vs Red Bull Bragantino",
-    "hora": "18:00",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Mirassol vs Grêmio",
-    "hora": "18:00",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Nashville SC vs Atlanta United FC",
-    "hora": "19:10",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Atlético de San Luis vs Cruz Azul",
-    "hora": "20:00",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: León vs Atlas",
-    "hora": "20:00",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: LA Galaxy vs LAFC",
-    "hora": "21:25",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: FC Juarez vs Puebla",
-    "hora": "22:00",
-    "fecha": "2026-07-17",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

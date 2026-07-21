@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "titulo": "Copa Sudamericana: Nacional vs Tigre",
+    "hora": "17:00",
+    "fecha": "2026-07-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Atlético-MG vs Bahia",
+    "hora": "17:30",
+    "fecha": "2026-07-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: UCV FC vs Santos",
+    "hora": "19:30",
+    "fecha": "2026-07-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Cruz Azul vs Puebla",
+    "hora": "20:00",
+    "fecha": "2026-07-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Toluca vs Pumas UNAM",
+    "hora": "22:05",
+    "fecha": "2026-07-21",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  }
+]

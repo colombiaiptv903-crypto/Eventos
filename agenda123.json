@@ -1,24 +1,24 @@
 [
   {
-    "titulo": "Copa Sudamericana: Bolívar vs Grêmio",
+    "titulo": "Liga Argentina: Gimnasia (Mendoza) vs Central Córdoba (Santiago del Estero)",
+    "hora": "14:45",
+    "fecha": "2026-07-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Racing Club vs Gimnasia La Plata",
     "hora": "17:00",
-    "fecha": "2026-07-23",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Belgrano (Córdoba) vs Rosario Central",
-    "hora": "17:30",
-    "fecha": "2026-07-23",
+    "fecha": "2026-07-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Sarmiento (Junín) vs Argentinos Juniors",
-    "hora": "17:30",
-    "fecha": "2026-07-23",
+    "titulo": "Liga Argentina: Vélez Sarsfield vs Instituto (Córdoba)",
+    "hora": "17:00",
+    "fecha": "2026-07-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,73 +48,25 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Botafogo vs Vitória",
-    "hora": "17:30",
-    "fecha": "2026-07-23",
+    "titulo": "Liga BetPlay: Llaneros FC vs Deportivo Pereira",
+    "hora": "18:10",
+    "fecha": "2026-07-24",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.84.78:8910/play/a0gr/index.m3u8?hls"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+        "nombre": "Win Sports +",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=winsports2"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Corinthians vs Remo",
-    "hora": "17:30",
-    "fecha": "2026-07-23",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Boca Juniors vs O'Higgins",
-    "hora": "19:30",
-    "fecha": "2026-07-23",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Independiente Santa Fe vs Caracas FC",
-    "hora": "19:30",
-    "fecha": "2026-07-23",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://astra.fibernetisp.com.co/play/a0jc/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Defensa y Justicia vs Aldosivi",
-    "hora": "19:45",
-    "fecha": "2026-07-23",
+    "titulo": "Liga Argentina: Huracán vs Banfield",
+    "hora": "19:15",
+    "fecha": "2026-07-24",
     "categoria": "Futbol",
     "canales": [
       {
@@ -124,6 +76,70 @@
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Platense vs Unión (Santa Fe)",
+    "hora": "19:15",
+    "fecha": "2026-07-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportivo Cali vs Jaguares de Córdoba",
+    "hora": "20:15",
+    "fecha": "2026-07-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.84.78:8910/play/a0gr/index.m3u8?hls"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=winsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlante vs América",
+    "hora": "22:00",
+    "fecha": "2026-07-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tijuana vs León",
+    "hora": "22:00",
+    "fecha": "2026-07-24",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://astra.fibernetisp.com.co/play/a0dp/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

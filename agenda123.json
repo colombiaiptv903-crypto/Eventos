@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "titulo": "Copa Sudamericana: Tigre vs Nacional",
+    "hora": "17:00",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Banfield vs Sarmiento (Junín)",
+    "hora": "17:00",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: San Lorenzo vs Gimnasia (Mendoza)",
+    "hora": "17:00",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Argentinos Juniors vs Estudiantes de Río Cuarto",
+    "hora": "19:15",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Rosario Central vs Racing Club",
+    "hora": "19:15",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Santos vs UCV FC",
+    "hora": "19:30",
+    "fecha": "2026-07-28",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  }
+]

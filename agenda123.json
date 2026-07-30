@@ -1,104 +1,8 @@
 [
   {
-    "titulo": "Liga Argentina: Barracas Central vs Aldosivi",
-    "hora": "12:30",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Atlético-MG vs Red Bull Bragantino",
-    "hora": "13:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Botafogo vs Grêmio",
-    "hora": "13:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Chapecoense vs Vasco da Gama",
-    "hora": "13:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: São Paulo vs Santos",
-    "hora": "13:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Defensa y Justicia vs Deportivo Riestra",
-    "hora": "15:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Vasco da Gama vs Independiente Medellín",
+    "titulo": "Copa Sudamericana: Grêmio vs Bolívar",
     "hora": "17:00",
-    "fecha": "2026-07-29",
+    "fecha": "2026-07-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -112,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Gimnasia La Plata vs River Plate",
-    "hora": "17:15",
-    "fecha": "2026-07-29",
+    "titulo": "Liga Argentina: Independiente Rivadavia vs Huracán",
+    "hora": "17:00",
+    "fecha": "2026-07-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -128,85 +32,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Internacional vs Flamengo",
-    "hora": "17:30",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Mirassol vs Remo",
-    "hora": "17:30",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: MLS All-Stars vs Liga MX All-Stars",
-    "hora": "19:00",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Cienciano del Cusco vs Lanús",
-    "hora": "19:30",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Red Bull Bragantino vs Sporting Cristal",
-    "hora": "19:30",
-    "fecha": "2026-07-29",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Instituto (Córdoba) vs Platense",
-    "hora": "19:30",
-    "fecha": "2026-07-29",
+    "titulo": "Liga Argentina: Talleres (Córdoba) vs Vélez Sarsfield",
+    "hora": "17:00",
+    "fecha": "2026-07-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -220,9 +48,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Fluminense vs Bahia",
-    "hora": "19:30",
-    "fecha": "2026-07-29",
+    "titulo": "Brasileirao: Corinthians vs Athletico-PR",
+    "hora": "17:30",
+    "fecha": "2026-07-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -236,9 +64,73 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Vitória vs Palmeiras",
+    "titulo": "Liga Argentina: Central Córdoba (Santiago del Estero) vs Atlético Tucumán",
+    "hora": "19:15",
+    "fecha": "2026-07-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Independiente vs Newell's Old Boys",
+    "hora": "19:15",
+    "fecha": "2026-07-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Caracas FC vs Independiente Santa Fe",
     "hora": "19:30",
-    "fecha": "2026-07-29",
+    "fecha": "2026-07-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: O'Higgins vs Boca Juniors",
+    "hora": "19:30",
+    "fecha": "2026-07-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Coritiba vs Cruzeiro",
+    "hora": "19:30",
+    "fecha": "2026-07-30",
     "categoria": "Futbol",
     "canales": [
       {
@@ -248,6 +140,22 @@
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Llaneros FC",
+    "hora": "20:00",
+    "fecha": "2026-07-30",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   }

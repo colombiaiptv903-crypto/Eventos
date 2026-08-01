@@ -1,20 +1,40 @@
 [
   {
-    "titulo": "MLS: New York City FC vs Toronto FC",
-    "hora": "18:30",
-    "fecha": "2026-07-31",
+    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Banfield",
+    "hora": "13:30",
+    "fecha": "2026-08-01",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Fortaleza CEIF vs Deportivo Pereira",
-    "hora": "20:00",
-    "fecha": "2026-07-31",
+    "titulo": "Liga Argentina: Gimnasia (Mendoza) vs Unión (Santa Fe)",
+    "hora": "13:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportivo Pasto vs Águilas Doradas",
+    "hora": "14:00",
+    "fecha": "2026-08-01",
     "categoria": "Futbol",
     "canales": [
       {
@@ -28,9 +48,57 @@
     ]
   },
   {
-    "titulo": "Liga MX: Puebla vs Guadalajara",
-    "hora": "20:00",
-    "fecha": "2026-07-31",
+    "titulo": "Liga Argentina: Belgrano (Córdoba) vs Argentinos Juniors",
+    "hora": "16:00",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Estudiantes de La Plata vs Defensa y Justicia",
+    "hora": "16:00",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Alianza FC vs Deportes Tolima",
+    "hora": "16:05",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Querétaro vs Tigres UANL",
+    "hora": "18:00",
+    "fecha": "2026-08-01",
     "categoria": "Futbol",
     "canales": [
       {
@@ -44,9 +112,173 @@
     ]
   },
   {
-    "titulo": "Liga MX: Atlético de San Luis vs Tijuana",
-    "hora": "22:00",
-    "fecha": "2026-07-31",
+    "titulo": "Liga BetPlay: Independiente Medellín vs Deportivo Cali",
+    "hora": "18:10",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Racing Club vs Tigre",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: CF Montréal vs New England Revolution",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: D.C. United vs Nashville SC",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: FC Cincinnati vs San Jose Earthquakes",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Inter Miami CF vs Columbus Crew",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Philadelphia Union vs Atlanta United FC",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Red Bull New York vs Orlando City SC",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Vancouver Whitecaps vs LAFC",
+    "hora": "18:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Chicago Fire FC vs Charlotte FC",
+    "hora": "19:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Minnesota United FC vs San Diego FC",
+    "hora": "19:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Sporting Kansas City vs Houston Dynamo FC",
+    "hora": "19:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: St. Louis CITY SC vs Real Salt Lake",
+    "hora": "19:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlas vs Monterrey",
+    "hora": "20:05",
+    "fecha": "2026-08-01",
     "categoria": "Futbol",
     "canales": [
       {
@@ -60,9 +292,77 @@
     ]
   },
   {
-    "titulo": "Liga MX: FC Juarez vs Pumas UNAM",
+    "titulo": "Liga MX: León vs Pachuca",
+    "hora": "20:06",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Atlético Junior vs Millonarios",
+    "hora": "20:15",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Colorado Rapids vs Austin FC",
+    "hora": "20:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: LA Galaxy vs FC Dallas",
+    "hora": "21:30",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Portland Timbers vs Seattle Sounders FC",
+    "hora": "21:45",
+    "fecha": "2026-08-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Cruz Azul vs Atlante",
     "hora": "22:00",
-    "fecha": "2026-07-31",
+    "fecha": "2026-08-01",
     "categoria": "Futbol",
     "canales": [
       {

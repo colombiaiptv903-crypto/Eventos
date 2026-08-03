@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Liga Argentina: Aldosivi vs Gimnasia La Plata",
-    "hora": "12:30",
-    "fecha": "2026-08-02",
+    "titulo": "Liga Argentina: Sarmiento (Junín) vs Independiente Rivadavia",
+    "hora": "14:45",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Deportivo Riestra vs Barracas Central",
-    "hora": "12:30",
-    "fecha": "2026-08-02",
+    "titulo": "Liga Argentina: Platense vs Talleres (Córdoba)",
+    "hora": "17:00",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Newell's Old Boys vs Boca Juniors",
-    "hora": "15:00",
-    "fecha": "2026-08-02",
+    "titulo": "Liga Argentina: Vélez Sarsfield vs Independiente",
+    "hora": "17:00",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,25 +48,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Jaguares de Córdoba vs Atlético Nacional",
-    "hora": "15:45",
-    "fecha": "2026-08-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: River Plate vs Rosario Central",
-    "hora": "17:15",
-    "fecha": "2026-08-02",
+    "titulo": "Liga Argentina: Central Córdoba (Santiago del Estero) vs San Lorenzo",
+    "hora": "19:15",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,41 +64,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: América de Cali vs Boyacá Chicó FC",
-    "hora": "17:45",
-    "fecha": "2026-08-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: América vs Santos",
-    "hora": "18:00",
-    "fecha": "2026-08-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Lanús vs Instituto (Córdoba)",
-    "hora": "19:30",
-    "fecha": "2026-08-02",
+    "titulo": "Liga Argentina: Huracán vs Atlético Tucumán",
+    "hora": "19:15",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -128,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Independiente Santa Fe vs Once Caldas",
+    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Cúcuta Deportivo",
     "hora": "20:00",
-    "fecha": "2026-08-02",
+    "fecha": "2026-08-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -140,22 +92,6 @@
       {
         "nombre": "Win Sports +",
         "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga MX: Toluca vs Necaxa",
-    "hora": "20:05",
-    "fecha": "2026-08-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

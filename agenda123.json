@@ -1,88 +1,40 @@
 [
   {
-    "titulo": "Liga Argentina: Sarmiento (Junín) vs Independiente Rivadavia",
-    "hora": "14:45",
-    "fecha": "2026-08-03",
+    "titulo": "Liga BetPlay: Llaneros FC vs Fortaleza CEIF",
+    "hora": "16:10",
+    "fecha": "2026-08-04",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Platense vs Talleres (Córdoba)",
-    "hora": "17:00",
-    "fecha": "2026-08-03",
+    "titulo": "Liga BetPlay: Deportes Tolima vs Independiente Medellín",
+    "hora": "18:15",
+    "fecha": "2026-08-04",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Vélez Sarsfield vs Independiente",
-    "hora": "17:00",
-    "fecha": "2026-08-03",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Central Córdoba (Santiago del Estero) vs San Lorenzo",
-    "hora": "19:15",
-    "fecha": "2026-08-03",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Huracán vs Atlético Tucumán",
-    "hora": "19:15",
-    "fecha": "2026-08-03",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Cúcuta Deportivo",
-    "hora": "20:00",
-    "fecha": "2026-08-03",
+    "titulo": "Liga BetPlay: Millonarios vs Deportivo Pasto",
+    "hora": "20:20",
+    "fecha": "2026-08-04",
     "categoria": "Futbol",
     "canales": [
       {

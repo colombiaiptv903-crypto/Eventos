@@ -1,24 +1,24 @@
 [
   {
-    "titulo": "Liga BetPlay: Llaneros FC vs Fortaleza CEIF",
-    "hora": "16:10",
-    "fecha": "2026-08-04",
+    "titulo": "Liga Argentina: Boca Juniors vs Estudiantes de La Plata",
+    "hora": "17:00",
+    "fecha": "2026-08-05",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Deportes Tolima vs Independiente Medellín",
+    "titulo": "Liga BetPlay: Internacional de Bogotá vs Jaguares de Córdoba",
     "hora": "18:15",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,25 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Millonarios vs Deportivo Pasto",
-    "hora": "20:20",
-    "fecha": "2026-08-04",
+    "titulo": "Liga Argentina: Tigre vs Belgrano (Córdoba)",
+    "hora": "19:15",
+    "fecha": "2026-08-05",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Once Caldas vs América de Cali",
+    "hora": "20:30",
+    "fecha": "2026-08-05",
     "categoria": "Futbol",
     "canales": [
       {

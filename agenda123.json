@@ -1,18 +1,1 @@
-[
-  {
-    "titulo": "Liga Argentina: Unión (Santa Fe) vs Lanús",
-    "hora": "17:00",
-    "fecha": "2026-08-06",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  }
-]
+[]

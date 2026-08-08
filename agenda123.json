@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "titulo": "Liga BetPlay: Independiente Santa Fe vs Boyacá Chicó FC",
+    "hora": "14:00",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Grêmio vs São Paulo",
+    "hora": "14:00",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: New England Revolution vs Houston Dynamo FC",
+    "hora": "15:30",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Fortaleza CEIF vs Cúcuta Deportivo",
+    "hora": "16:20",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Remo vs Atlético-MG",
+    "hora": "16:30",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportes Tolima vs Internacional de Bogotá",
+    "hora": "18:25",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Coritiba vs Chapecoense",
+    "hora": "18:30",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Botafogo vs Fluminense",
+    "hora": "19:00",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportivo Pasto vs Deportivo Cali",
+    "hora": "20:30",
+    "fecha": "2026-08-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  }
+]

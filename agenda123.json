@@ -1,81 +1,17 @@
 [
   {
-    "titulo": "Liga BetPlay: Deportivo Pereira vs Jaguares de Córdoba",
-    "hora": "13:00",
-    "fecha": "2026-08-25",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Águilas Doradas",
-    "hora": "18:00",
-    "fecha": "2026-08-25",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Independiente del Valle vs Deportes Tolima",
+    "titulo": "Copa Sudamericana: River Plate vs Independiente Santa Fe",
     "hora": "19:30",
-    "fecha": "2026-08-25",
+    "fecha": "2026-08-26",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Cúcuta Deportivo vs Alianza FC",
-    "hora": "20:00",
-    "fecha": "2026-08-25",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Independiente Santa Fe vs Jaguares de Córdoba",
-    "hora": "20:05",
-    "fecha": "2026-08-25",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
       }
     ]
   }

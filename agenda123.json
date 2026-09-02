@@ -1,8 +1,24 @@
 [
   {
-    "titulo": "Liga BetPlay: Fortaleza CEIF vs Once Caldas",
-    "hora": "20:00",
-    "fecha": "2026-09-01",
+    "titulo": "Brasileirao: Flamengo vs Mirassol",
+    "hora": "17:30",
+    "fecha": "2026-09-02",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Independiente Santa Fe vs Millonarios",
+    "hora": "20:25",
+    "fecha": "2026-09-02",
     "categoria": "Futbol",
     "canales": [
       {

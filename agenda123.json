@@ -1,24 +1,52 @@
 [
   {
-    "titulo": "Brasileirao: Flamengo vs Mirassol",
-    "hora": "17:30",
-    "fecha": "2026-09-02",
+    "titulo": "Ligue 1: Toulouse vs Lille",
+    "hora": "13:45",
+    "fecha": "2026-09-03",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Independiente Santa Fe vs Millonarios",
-    "hora": "20:25",
-    "fecha": "2026-09-02",
+    "titulo": "La Liga: Real Sociedad vs Celta Vigo",
+    "hora": "14:00",
+    "fecha": "2026-09-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: América de Cali vs Alianza FC",
+    "hora": "16:00",
+    "fecha": "2026-09-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportivo Pereira vs Independiente Medellín",
+    "hora": "20:00",
+    "fecha": "2026-09-03",
     "categoria": "Futbol",
     "canales": [
       {

@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Ligue 1: Toulouse vs Lille",
-    "hora": "13:45",
-    "fecha": "2026-09-03",
+    "titulo": "Ligue 1: Lyon vs AJ Auxerre",
+    "hora": "12:00",
+    "fecha": "2026-09-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -12,9 +12,57 @@
     ]
   },
   {
-    "titulo": "La Liga: Real Sociedad vs Celta Vigo",
+    "titulo": "Bundesliga: VfB Stuttgart vs FC Cologne",
+    "hora": "13:30",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 5 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a02a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Genoa vs Como",
+    "hora": "13:45",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Ipswich Town vs Liverpool",
     "hora": "14:00",
-    "fecha": "2026-09-03",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Real Betis vs Real Madrid",
+    "hora": "14:00",
+    "fecha": "2026-09-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -28,34 +76,90 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: América de Cali vs Alianza FC",
-    "hora": "16:00",
-    "fecha": "2026-09-03",
+    "titulo": "Ligue 1: Paris Saint-Germain vs AS Monaco",
+    "hora": "14:05",
+    "fecha": "2026-09-04",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Deportivo Pereira vs Independiente Medellín",
-    "hora": "20:00",
-    "fecha": "2026-09-03",
+    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Sarmiento (Junín)",
+    "hora": "14:45",
+    "fecha": "2026-09-04",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Belgrano (Córdoba) vs Huracán",
+    "hora": "17:00",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Platense vs Deportivo Riestra",
+    "hora": "17:00",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: New York City FC vs Nashville SC",
+    "hora": "18:30",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: FC Juarez vs Pachuca",
+    "hora": "22:00",
+    "fecha": "2026-09-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Serie A: Cagliari vs Lecce",
-    "hora": "11:30",
-    "fecha": "2026-09-07",
+    "titulo": "Champions League: AEK Athens vs LASK Linz",
+    "hora": "11:45",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,25 +16,9 @@
     ]
   },
   {
-    "titulo": "La Liga: Getafe vs Celta Vigo",
-    "hora": "12:00",
-    "fecha": "2026-09-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Udinese vs Lazio",
-    "hora": "13:45",
-    "fecha": "2026-09-07",
+    "titulo": "Champions League: Club Brugge vs Aston Villa",
+    "hora": "11:45",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,82 +32,114 @@
     ]
   },
   {
-    "titulo": "La Liga: Elche vs Real Sociedad",
-    "hora": "14:30",
-    "fecha": "2026-09-07",
+    "titulo": "Champions League: Borussia Dortmund vs Villarreal",
+    "hora": "14:00",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Barracas Central vs Argentinos Juniors",
+    "titulo": "Champions League: FC Porto vs Manchester City",
+    "hora": "14:00",
+    "fecha": "2026-09-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Champions League: Lille vs Real Betis",
+    "hora": "14:00",
+    "fecha": "2026-09-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Champions League: Real Madrid vs Internazionale",
+    "hora": "14:00",
+    "fecha": "2026-09-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Fluminense vs Platense",
     "hora": "17:00",
-    "fecha": "2026-09-07",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Llaneros FC vs Deportes Tolima",
-    "hora": "18:00",
-    "fecha": "2026-09-07",
+    "titulo": "Copa Sudamericana: Independiente Santa Fe vs Vasco da Gama",
+    "hora": "17:00",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       },
       {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Vitória vs Grêmio",
-    "hora": "18:00",
-    "fecha": "2026-09-07",
+    "titulo": "Copa Sudamericana: Boca Juniors vs São Paulo",
+    "hora": "19:30",
+    "fecha": "2026-09-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Unión (Santa Fe) vs Instituto (Córdoba)",
-    "hora": "19:15",
-    "fecha": "2026-09-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
       }
     ]
   }

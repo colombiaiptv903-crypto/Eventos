@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Champions League: Barcelona vs Feyenoord Rotterdam",
+    "titulo": "Champions League: Fenerbahce vs AS Roma",
     "hora": "11:45",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Champions League: VfB Stuttgart vs Viking FK",
+    "titulo": "Champions League: PSV Eindhoven vs Shakhtar Donetsk",
     "hora": "11:45",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "Champions League: Liverpool vs Atlético Madrid",
+    "titulo": "Champions League: Bayern Munich vs Bodo/Glimt",
     "hora": "14:00",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "titulo": "Champions League: Napoli vs Arsenal",
+    "titulo": "Champions League: Como vs RB Leipzig",
     "hora": "14:00",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "titulo": "Champions League: Paris Saint-Germain vs Slovan Bratislava",
+    "titulo": "Champions League: Manchester United vs Sabah FK",
     "hora": "14:00",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Champions League: Sporting CP vs Galatasaray",
+    "titulo": "Champions League: Slavia Prague vs Lens",
     "hora": "14:00",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Palmeiras vs Liga de Quito",
-    "hora": "17:00",
-    "fecha": "2026-09-09",
+    "titulo": "Copa Libertadores: Independiente del Valle vs Flamengo",
+    "hora": "19:30",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Santos vs Atlético-MG",
-    "hora": "17:00",
-    "fecha": "2026-09-09",
+    "titulo": "Copa Sudamericana: Cienciano del Cusco vs Montevideo City Torque",
+    "hora": "19:30",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -128,81 +128,25 @@
     ]
   },
   {
-    "titulo": "MLS: Atlanta United FC vs Orlando City SC",
-    "hora": "18:30",
-    "fecha": "2026-09-09",
+    "titulo": "Liga BetPlay: Millonarios vs Deportivo Cali",
+    "hora": "20:00",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "MLS: CF Montréal vs Charlotte FC",
-    "hora": "18:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: D.C. United vs Columbus Crew",
-    "hora": "18:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Toronto FC vs Nashville SC",
-    "hora": "18:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Philadelphia Union vs FC Cincinnati",
-    "hora": "18:45",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: New York City FC vs New England Revolution",
-    "hora": "19:00",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Estudiantes de La Plata vs Corinthians",
-    "hora": "19:30",
-    "fecha": "2026-09-09",
+    "titulo": "Liga MX: Pumas UNAM vs León",
+    "hora": "22:05",
+    "fecha": "2026-09-10",
     "categoria": "Futbol",
     "canales": [
       {
@@ -210,104 +154,8 @@
         "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       },
       {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Austin FC vs Colorado Rapids",
-    "hora": "19:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Chicago Fire FC vs Inter Miami CF",
-    "hora": "19:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Houston Dynamo FC vs Real Salt Lake",
-    "hora": "19:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Minnesota United FC vs FC Dallas",
-    "hora": "19:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: LAFC vs Red Bull New York",
-    "hora": "21:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Portland Timbers vs St. Louis CITY SC",
-    "hora": "21:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: San Diego FC vs San Jose Earthquakes",
-    "hora": "21:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Vancouver Whitecaps vs LA Galaxy",
-    "hora": "21:30",
-    "fecha": "2026-09-09",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

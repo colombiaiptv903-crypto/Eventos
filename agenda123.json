@@ -1,8 +1,24 @@
 [
   {
-    "titulo": "Champions League: Fenerbahce vs AS Roma",
-    "hora": "11:45",
-    "fecha": "2026-09-10",
+    "titulo": "Bundesliga: 1. FC Union Berlin vs Schalke 04",
+    "hora": "13:30",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 5 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a02a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Venezia vs Fiorentina",
+    "hora": "13:45",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,89 +32,21 @@
     ]
   },
   {
-    "titulo": "Champions League: PSV Eindhoven vs Shakhtar Donetsk",
-    "hora": "11:45",
-    "fecha": "2026-09-10",
+    "titulo": "Ligue 1: Stade Rennais vs Marseille",
+    "hora": "13:45",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Champions League: Bayern Munich vs Bodo/Glimt",
+    "titulo": "La Liga: Sevilla vs Valencia",
     "hora": "14:00",
-    "fecha": "2026-09-10",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Como vs RB Leipzig",
-    "hora": "14:00",
-    "fecha": "2026-09-10",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Manchester United vs Sabah FK",
-    "hora": "14:00",
-    "fecha": "2026-09-10",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Slavia Prague vs Lens",
-    "hora": "14:00",
-    "fecha": "2026-09-10",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Independiente del Valle vs Flamengo",
-    "hora": "19:30",
-    "fecha": "2026-09-10",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {
@@ -112,25 +60,41 @@
     ]
   },
   {
-    "titulo": "Copa Sudamericana: Cienciano del Cusco vs Montevideo City Torque",
-    "hora": "19:30",
-    "fecha": "2026-09-10",
+    "titulo": "Liga Argentina: Newell's Old Boys vs Vélez Sarsfield",
+    "hora": "15:00",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Millonarios vs Deportivo Cali",
-    "hora": "20:00",
-    "fecha": "2026-09-10",
+    "titulo": "Liga Argentina: Defensa y Justicia vs Gimnasia (Mendoza)",
+    "hora": "17:15",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Jaguares de Córdoba vs Fortaleza CEIF",
+    "hora": "18:15",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {
@@ -144,9 +108,89 @@
     ]
   },
   {
-    "titulo": "Liga MX: Pumas UNAM vs León",
-    "hora": "22:05",
-    "fecha": "2026-09-10",
+    "titulo": "Brasileirao: Coritiba vs Athletico-PR",
+    "hora": "19:00",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Boca Juniors vs Central Córdoba (Santiago del Estero)",
+    "hora": "19:30",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Necaxa vs Puebla",
+    "hora": "20:00",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Independiente Santa Fe vs Deportes Tolima",
+    "hora": "20:30",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlante vs Pachuca",
+    "hora": "22:00",
+    "fecha": "2026-09-11",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tijuana vs Querétaro",
+    "hora": "22:10",
+    "fecha": "2026-09-11",
     "categoria": "Futbol",
     "canales": [
       {

@@ -1,72 +1,8 @@
 [
   {
-    "titulo": "Serie A: Como vs Parma",
-    "hora": "11:30",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Torino vs AS Roma",
-    "hora": "11:30",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Internazionale vs Udinese",
-    "hora": "13:45",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Leeds United vs Newcastle United",
-    "hora": "14:00",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Villarreal vs Real Betis",
-    "hora": "14:00",
-    "fecha": "2026-09-14",
+    "titulo": "La Liga: Rayo Vallecano vs Espanyol",
+    "hora": "12:00",
+    "fecha": "2026-09-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,73 +16,73 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Banfield vs Barracas Central",
+    "titulo": "La Liga: Alavés vs Valencia",
+    "hora": "13:00",
+    "fecha": "2026-09-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Elche vs Real Madrid",
+    "hora": "14:30",
+    "fecha": "2026-09-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Platense vs Fluminense",
     "hora": "17:00",
-    "fecha": "2026-09-14",
+    "fecha": "2026-09-15",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Deportivo Riestra vs Lanús",
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Independiente Santa Fe",
     "hora": "17:00",
-    "fecha": "2026-09-14",
+    "fecha": "2026-09-15",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Bahia vs Remo",
-    "hora": "18:00",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Instituto (Córdoba) vs Estudiantes de Río Cuarto",
-    "hora": "19:15",
-    "fecha": "2026-09-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: América de Cali vs Deportivo Pasto",
-    "hora": "20:00",
-    "fecha": "2026-09-14",
+    "titulo": "Liga BetPlay: Boyacá Chicó FC vs Alianza FC",
+    "hora": "19:30",
+    "fecha": "2026-09-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -160,9 +96,25 @@
     ]
   },
   {
-    "titulo": "Liga MX: León vs Atlético de San Luis",
+    "titulo": "Copa Sudamericana: São Paulo vs Boca Juniors",
+    "hora": "19:30",
+    "fecha": "2026-09-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Puebla vs Toluca",
     "hora": "20:00",
-    "fecha": "2026-09-14",
+    "fecha": "2026-09-15",
     "categoria": "Futbol",
     "canales": [
       {

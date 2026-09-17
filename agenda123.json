@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Europa League: Ararat-Armenia vs Sparta Prague",
+    "titulo": "Europa League: Levski Sofia vs RB Salzburg",
     "hora": "11:45",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Omonia Nicosia vs Celta Vigo",
+    "titulo": "Europa League: OFI Crete vs TSG Hoffenheim",
     "hora": "11:45",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "La Liga: Atlético Madrid vs Osasuna",
+    "titulo": "La Liga: Real Betis vs Getafe",
     "hora": "12:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,25 +48,9 @@
     ]
   },
   {
-    "titulo": "La Liga: Deportivo vs Sevilla",
-    "hora": "12:00",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Europa League: AC Milan vs Benfica",
+    "titulo": "Europa League: Besiktas vs Marseille",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,9 +64,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Anderlecht vs Lyon",
+    "titulo": "Europa League: Celtic vs Ferencvaros",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -96,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Bayer Leverkusen vs NK Celje",
+    "titulo": "Europa League: Crystal Palace vs Lech Poznan",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -112,9 +96,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Hapoel Be'er vs Dinamo Zagreb",
+    "titulo": "Europa League: Juventus vs NEC Nijmegen",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -128,9 +112,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Olympiacos vs Jagiellonia Bialystok",
+    "titulo": "Europa League: Lillestrom vs Torreense",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -144,9 +128,9 @@
     ]
   },
   {
-    "titulo": "Europa League: SK Sturm Graz vs Stade Rennais",
+    "titulo": "Europa League: Real Sociedad vs AFC Bournemouth",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -160,9 +144,9 @@
     ]
   },
   {
-    "titulo": "Europa League: Sunderland vs AZ Alkmaar",
+    "titulo": "Europa League: Viktoria Plzen vs Union St.-Gilloise",
     "hora": "14:00",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -176,9 +160,9 @@
     ]
   },
   {
-    "titulo": "La Liga: Barcelona vs Racing Santander",
+    "titulo": "La Liga: Málaga vs Villarreal",
     "hora": "14:30",
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -192,9 +176,25 @@
     ]
   },
   {
-    "titulo": "La Liga: Levante vs Athletic Club",
-    "hora": "14:30",
-    "fecha": "2026-09-16",
+    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Independiente Medellín",
+    "hora": "19:00",
+    "fecha": "2026-09-17",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Libertadores: Flamengo vs Independiente del Valle",
+    "hora": "19:30",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -208,25 +208,9 @@
     ]
   },
   {
-    "titulo": "Copa Libertadores: Liga de Quito vs Palmeiras",
-    "hora": "17:00",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Atlético-MG vs Santos",
-    "hora": "17:00",
-    "fecha": "2026-09-16",
+    "titulo": "Copa Sudamericana: Montevideo City Torque vs Cienciano del Cusco",
+    "hora": "19:30",
+    "fecha": "2026-09-17",
     "categoria": "Futbol",
     "canales": [
       {
@@ -236,70 +220,6 @@
       {
         "nombre": "Directv Sports 2",
         "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Botafogo vs Grêmio",
-    "hora": "17:30",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Once Caldas vs Deportes Tolima",
-    "hora": "18:15",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Corinthians vs Estudiantes de La Plata",
-    "hora": "19:30",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Internacional de Bogotá vs Atlético Nacional",
-    "hora": "20:20",
-    "fecha": "2026-09-16",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   }

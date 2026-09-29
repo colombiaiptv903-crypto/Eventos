@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "titulo": "Liga BetPlay: Deportivo Pereira vs Independiente Santa Fe",
+    "hora": "15:30",
+    "fecha": "2026-09-29",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Independiente Medellín vs Millonarios",
+    "hora": "20:05",
+    "fecha": "2026-09-29",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  }
+]

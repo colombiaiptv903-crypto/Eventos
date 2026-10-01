@@ -1,20 +1,8 @@
 [
   {
-    "titulo": "MLS: Red Bull New York vs St. Louis CITY SC",
-    "hora": "18:30",
-    "fecha": "2026-09-30",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Nacional vs Atlético Junior",
+    "titulo": "Liga BetPlay: Internacional de Bogotá vs Once Caldas",
     "hora": "20:00",
-    "fecha": "2026-09-30",
+    "fecha": "2026-10-01",
     "categoria": "Futbol",
     "canales": [
       {
@@ -24,6 +12,18 @@
       {
         "nombre": "Win Sports +",
         "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "MLS: Seattle Sounders FC vs Sporting Kansas City",
+    "hora": "20:30",
+    "fecha": "2026-10-01",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   }

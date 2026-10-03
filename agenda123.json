@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Liga Argentina: Independiente vs Instituto (Córdoba)",
-    "hora": "17:15",
-    "fecha": "2026-10-02",
+    "titulo": "Liga Argentina: Defensa y Justicia vs San Lorenzo",
+    "hora": "12:45",
+    "fecha": "2026-10-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,57 +16,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: São Paulo vs Santos",
-    "hora": "18:00",
-    "fecha": "2026-10-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Boca Juniors vs Unión (Santa Fe)",
-    "hora": "19:30",
-    "fecha": "2026-10-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Independiente Rivadavia vs Gimnasia La Plata",
-    "hora": "19:30",
-    "fecha": "2026-10-02",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Deportivo Cali vs Alianza FC",
-    "hora": "19:45",
-    "fecha": "2026-10-02",
+    "titulo": "Liga BetPlay: Águilas Doradas vs Jaguares de Córdoba",
+    "hora": "14:00",
+    "fecha": "2026-10-03",
     "categoria": "Futbol",
     "canales": [
       {
@@ -76,6 +28,70 @@
       {
         "nombre": "Win Sports +",
         "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Atlético Tucumán vs Barracas Central",
+    "hora": "15:00",
+    "fecha": "2026-10-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Newell's Old Boys vs Lanús",
+    "hora": "15:00",
+    "fecha": "2026-10-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportes Tolima vs Boyacá Chicó FC",
+    "hora": "16:05",
+    "fecha": "2026-10-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Atlético-MG vs Red Bull Bragantino",
+    "hora": "16:30",
+    "fecha": "2026-10-03",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       }
     ]
   }

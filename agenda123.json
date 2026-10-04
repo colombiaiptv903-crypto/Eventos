@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Liga Argentina: Defensa y Justicia vs San Lorenzo",
+    "titulo": "Liga Argentina: Huracán vs Aldosivi",
     "hora": "12:45",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Águilas Doradas vs Jaguares de Córdoba",
+    "titulo": "Liga BetPlay: Deportivo Pasto vs Fortaleza CEIF",
     "hora": "14:00",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Atlético Tucumán vs Barracas Central",
+    "titulo": "Liga Argentina: Talleres (Córdoba) vs Belgrano (Córdoba)",
     "hora": "15:00",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,25 +48,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Newell's Old Boys vs Lanús",
-    "hora": "15:00",
-    "fecha": "2026-10-03",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Deportes Tolima vs Boyacá Chicó FC",
+    "titulo": "Liga BetPlay: Cúcuta Deportivo vs Deportivo Pereira",
     "hora": "16:05",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "categoria": "Futbol",
     "canales": [
       {
@@ -80,18 +64,82 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Atlético-MG vs Red Bull Bragantino",
-    "hora": "16:30",
-    "fecha": "2026-10-03",
+    "titulo": "Liga BetPlay: Internacional de Bogotá vs Once Caldas",
+    "hora": "16:05",
+    "fecha": "2026-10-04",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Argentinos Juniors vs Tigre",
+    "hora": "17:15",
+    "fecha": "2026-10-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Atlético Junior",
+    "hora": "18:10",
+    "fecha": "2026-10-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Racing Club",
+    "hora": "19:30",
+    "fecha": "2026-10-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Llaneros FC vs América de Cali",
+    "hora": "20:15",
+    "fecha": "2026-10-04",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   }

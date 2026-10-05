@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Liga Argentina: Huracán vs Aldosivi",
-    "hora": "12:45",
-    "fecha": "2026-10-04",
+    "titulo": "Liga Argentina: Deportivo Riestra vs Central Córdoba (Santiago del Estero)",
+    "hora": "14:45",
+    "fecha": "2026-10-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,25 +16,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Deportivo Pasto vs Fortaleza CEIF",
-    "hora": "14:00",
-    "fecha": "2026-10-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Talleres (Córdoba) vs Belgrano (Córdoba)",
-    "hora": "15:00",
-    "fecha": "2026-10-04",
+    "titulo": "Liga Argentina: Estudiantes de La Plata vs Gimnasia (Mendoza)",
+    "hora": "17:00",
+    "fecha": "2026-10-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,41 +32,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Cúcuta Deportivo vs Deportivo Pereira",
-    "hora": "16:05",
-    "fecha": "2026-10-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Internacional de Bogotá vs Once Caldas",
-    "hora": "16:05",
-    "fecha": "2026-10-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Argentinos Juniors vs Tigre",
-    "hora": "17:15",
-    "fecha": "2026-10-04",
+    "titulo": "Liga Argentina: Vélez Sarsfield vs Platense",
+    "hora": "17:00",
+    "fecha": "2026-10-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -96,9 +48,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Atlético Bucaramanga vs Atlético Junior",
-    "hora": "18:10",
-    "fecha": "2026-10-04",
+    "titulo": "Liga BetPlay: Independiente Medellín vs Independiente Santa Fe",
+    "hora": "19:00",
+    "fecha": "2026-10-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -112,9 +64,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Racing Club",
-    "hora": "19:30",
-    "fecha": "2026-10-04",
+    "titulo": "Liga Argentina: Banfield vs Rosario Central",
+    "hora": "19:15",
+    "fecha": "2026-10-05",
     "categoria": "Futbol",
     "canales": [
       {
@@ -124,22 +76,6 @@
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Llaneros FC vs América de Cali",
-    "hora": "20:15",
-    "fecha": "2026-10-04",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   }

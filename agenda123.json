@@ -1,81 +1,13 @@
 [
   {
-    "titulo": "Liga Argentina: Deportivo Riestra vs Central Córdoba (Santiago del Estero)",
-    "hora": "14:45",
-    "fecha": "2026-10-05",
+    "titulo": "MLS: Chicago Fire FC vs Vancouver Whitecaps",
+    "hora": "19:30",
+    "fecha": "2026-10-06",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Estudiantes de La Plata vs Gimnasia (Mendoza)",
-    "hora": "17:00",
-    "fecha": "2026-10-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Vélez Sarsfield vs Platense",
-    "hora": "17:00",
-    "fecha": "2026-10-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Independiente Medellín vs Independiente Santa Fe",
-    "hora": "19:00",
-    "fecha": "2026-10-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Banfield vs Rosario Central",
-    "hora": "19:15",
-    "fecha": "2026-10-05",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   }

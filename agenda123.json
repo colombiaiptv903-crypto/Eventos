@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Brasileirao: Internacional vs Corinthians",
+    "titulo": "Brasileirao: Santos vs Flamengo",
     "hora": "17:30",
-    "fecha": "2026-10-07",
+    "fecha": "2026-10-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,41 +16,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Red Bull Bragantino vs Mirassol",
-    "hora": "17:30",
-    "fecha": "2026-10-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Remo vs Grêmio",
-    "hora": "17:30",
-    "fecha": "2026-10-07",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Vitória vs Chapecoense",
+    "titulo": "Brasileirao: Athletico-PR vs Atlético-MG",
     "hora": "18:00",
-    "fecha": "2026-10-07",
+    "fecha": "2026-10-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -64,25 +32,25 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Botafogo vs Vasco da Gama",
-    "hora": "18:30",
-    "fecha": "2026-10-07",
+    "titulo": "Liga BetPlay: Atlético Nacional vs Deportes Tolima",
+    "hora": "18:05",
+    "fecha": "2026-10-08",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Cruzeiro vs São Paulo",
+    "titulo": "Brasileirao: Fluminense vs Coritiba",
     "hora": "19:30",
-    "fecha": "2026-10-07",
+    "fecha": "2026-10-08",
     "categoria": "Futbol",
     "canales": [
       {
@@ -92,6 +60,38 @@
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Brasileirao: Palmeiras vs Bahia",
+    "hora": "19:30",
+    "fecha": "2026-10-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Sport TV",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Fortaleza CEIF vs Millonarios",
+    "hora": "20:10",
+    "fecha": "2026-10-08",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
       }
     ]
   }

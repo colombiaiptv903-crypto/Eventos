@@ -1,13 +1,89 @@
 [
   {
-    "titulo": "Brasileirao: Santos vs Flamengo",
+    "titulo": "Liga Argentina: Aldosivi vs Sarmiento (Junín)",
+    "hora": "12:30",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Bundesliga: Borussia Dortmund vs Werder Bremen",
+    "hora": "13:30",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 5 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a02a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Ligue 1: Lens vs Lyon",
+    "hora": "13:45",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "La Liga: Málaga vs Espanyol",
+    "hora": "14:00",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports",
+        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Gimnasia La Plata vs Atlético Tucumán",
+    "hora": "16:00",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+      },
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Instituto (Córdoba) vs Boca Juniors",
     "hora": "17:30",
-    "fecha": "2026-10-08",
+    "fecha": "2026-10-09",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -16,25 +92,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Athletico-PR vs Atlético-MG",
+    "titulo": "Liga BetPlay: Alianza FC vs Águilas Doradas",
     "hora": "18:00",
-    "fecha": "2026-10-08",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Nacional vs Deportes Tolima",
-    "hora": "18:05",
-    "fecha": "2026-10-08",
+    "fecha": "2026-10-09",
     "categoria": "Futbol",
     "canales": [
       {
@@ -48,14 +108,14 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Fluminense vs Coritiba",
-    "hora": "19:30",
-    "fecha": "2026-10-08",
+    "titulo": "Liga Argentina: Unión (Santa Fe) vs Defensa y Justicia",
+    "hora": "19:45",
+    "fecha": "2026-10-09",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "TyC Sports",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
       },
       {
         "nombre": "Espn 1 (Col)",
@@ -64,25 +124,25 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Palmeiras vs Bahia",
-    "hora": "19:30",
-    "fecha": "2026-10-08",
+    "titulo": "Liga MX: Puebla vs León",
+    "hora": "20:00",
+    "fecha": "2026-10-09",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       },
       {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Fortaleza CEIF vs Millonarios",
+    "titulo": "Liga BetPlay: Once Caldas vs Llaneros FC",
     "hora": "20:10",
-    "fecha": "2026-10-08",
+    "fecha": "2026-10-09",
     "categoria": "Futbol",
     "canales": [
       {
@@ -92,6 +152,22 @@
       {
         "nombre": "Win Sports +",
         "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tigres UANL vs Toluca",
+    "hora": "22:00",
+    "fecha": "2026-10-09",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

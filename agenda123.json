@@ -1,168 +1,8 @@
 [
   {
-    "titulo": "Champions League: Feyenoord Rotterdam vs Como",
+    "titulo": "Europa League: AZ Alkmaar vs Hapoel Be'er",
     "hora": "11:45",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: LASK Linz vs Liverpool",
-    "hora": "11:45",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: AS Roma vs Real Madrid",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Aston Villa vs Fenerbahce",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Bodo/Glimt vs Borussia Dortmund",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Manchester City vs Paris Saint-Germain",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Real Betis vs FC Porto",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Shakhtar Donetsk vs AEK Athens",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Champions League: Slovan Bratislava vs VfB Stuttgart",
-    "hora": "14:00",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Junior vs Deportivo Pereira",
-    "hora": "16:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Sudamericana: Atlético-MG vs Montevideo City Torque",
-    "hora": "17:00",
-    "fecha": "2026-10-14",
+    "fecha": "2026-10-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -170,15 +10,287 @@
         "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
       },
       {
-        "nombre": "Directv Sports 2",
-        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Sarmiento (Junín) vs River Plate",
-    "hora": "17:00",
-    "fecha": "2026-10-14",
+    "titulo": "Europa League: Lech Poznan vs Bayer Leverkusen",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Lyon vs Crystal Palace",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: NK Celje vs Omonia Nicosia",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: RB Salzburg vs AC Milan",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Sparta Prague vs Lillestrom",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Torreense vs Sunderland",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Union St.-Gilloise vs Real Sociedad",
+    "hora": "11:45",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: AFC Bournemouth vs SK Sturm Graz",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Benfica vs Celtic",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Celta Vigo vs Juventus",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Dinamo Zagreb vs Anderlecht",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Ferencvaros vs Viktoria Plzen",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Jagiellonia Bialystok vs Ararat-Armenia",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Marseille vs Olympiacos",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: NEC Nijmegen vs Levski Sofia",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: Stade Rennais vs OFI Crete",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Europa League: TSG Hoffenheim vs Besiktas",
+    "hora": "14:00",
+    "fecha": "2026-10-15",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "ESPN 4 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Huracán vs Gimnasia La Plata",
+    "hora": "18:00",
+    "fecha": "2026-10-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -192,97 +304,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Independiente Santa Fe vs Jaguares de Córdoba",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: CF Montréal vs Atlanta United FC",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Columbus Crew vs Charlotte FC",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: D.C. United vs Red Bull New York",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: FC Cincinnati vs New England Revolution",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Inter Miami CF vs New York City FC",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Toronto FC vs Orlando City SC",
-    "hora": "18:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Copa Libertadores: Fluminense vs Palmeiras",
+    "titulo": "Copa Libertadores: Estudiantes de La Plata vs Flamengo",
     "hora": "19:30",
-    "fecha": "2026-10-14",
+    "fecha": "2026-10-15",
     "categoria": "Futbol",
     "canales": [
       {
@@ -292,114 +316,6 @@
       {
         "nombre": "Directv Sports",
         "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Chicago Fire FC vs Philadelphia Union",
-    "hora": "19:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: FC Dallas vs Seattle Sounders FC",
-    "hora": "19:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Nashville SC vs Sporting Kansas City",
-    "hora": "19:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: St. Louis CITY SC vs Vancouver Whitecaps",
-    "hora": "19:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Colorado Rapids vs Minnesota United FC",
-    "hora": "20:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: Real Salt Lake vs San Jose Earthquakes",
-    "hora": "20:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: LA Galaxy vs Portland Timbers",
-    "hora": "21:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: LAFC vs Austin FC",
-    "hora": "21:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "MLS: San Diego FC vs Houston Dynamo FC",
-    "hora": "21:30",
-    "fecha": "2026-10-14",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   }

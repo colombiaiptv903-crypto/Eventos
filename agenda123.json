@@ -1,264 +1,8 @@
 [
   {
-    "titulo": "Serie A: Udinese vs Lecce",
-    "hora": "05:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Osasuna vs Racing Santander",
-    "hora": "07:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: AFC Bournemouth vs Sunderland",
-    "hora": "08:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Brighton & Hove Albion vs Crystal Palace",
-    "hora": "08:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Leeds United vs Manchester United",
-    "hora": "08:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Fiorentina vs Como",
-    "hora": "08:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Angers vs Marseille",
-    "hora": "08:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Bayer Leverkusen vs SC Freiburg",
-    "hora": "08:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 4 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 5 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a02a/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Celta Vigo vs Alavés",
-    "hora": "09:15",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Le Havre AC vs AJ Auxerre",
-    "hora": "10:15",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Lorient vs AS Monaco",
-    "hora": "10:15",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Ligue 1: Paris FC vs Stade Rennais",
-    "hora": "10:15",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Premier League: Nottingham Forest vs Arsenal",
-    "hora": "10:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Bundesliga: Borussia Mönchengladbach vs TSG Hoffenheim",
-    "hora": "10:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 4 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00j/index.m3u8"
-      },
-      {
-        "nombre": "ESPN 5 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a02a/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: AC Milan vs Atalanta",
-    "hora": "11:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      },
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Málaga vs Real Sociedad",
+    "titulo": "Serie A: Monza vs Cagliari",
     "hora": "11:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Racing Club vs Independiente",
-    "hora": "12:45",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Serie A: Juventus vs Lazio",
-    "hora": "13:45",
-    "fecha": "2026-10-18",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -272,11 +16,31 @@
     ]
   },
   {
-    "titulo": "Ligue 1: Lyon vs Nice",
+    "titulo": "Serie A: Parma vs Torino",
     "hora": "13:45",
-    "fecha": "2026-10-18",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Premier League: Tottenham Hotspur vs Coventry City",
+    "hora": "14:00",
+    "fecha": "2026-10-19",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
       {
         "nombre": "ESPN 3 (Col)",
         "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
@@ -284,25 +48,9 @@
     ]
   },
   {
-    "titulo": "Liga BetPlay: Águilas Doradas vs Deportes Tolima",
+    "titulo": "La Liga: Getafe vs Rayo Vallecano",
     "hora": "14:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Real Madrid vs Sevilla",
-    "hora": "14:00",
-    "fecha": "2026-10-18",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -316,57 +64,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Fluminense vs Santos",
-    "hora": "14:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Grêmio vs Cruzeiro",
-    "hora": "14:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Atlético Bucaramanga vs América de Cali",
-    "hora": "16:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Estudiantes de La Plata vs San Lorenzo",
-    "hora": "16:00",
-    "fecha": "2026-10-18",
+    "titulo": "Liga Argentina: Newell's Old Boys vs Central Córdoba (Santiago del Estero)",
+    "hora": "17:00",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -380,9 +80,9 @@
     ]
   },
   {
-    "titulo": "Liga Argentina: Estudiantes de Río Cuarto vs Aldosivi",
-    "hora": "16:00",
-    "fecha": "2026-10-18",
+    "titulo": "Liga Argentina: Sarmiento (Junín) vs Barracas Central",
+    "hora": "17:00",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -396,21 +96,9 @@
     ]
   },
   {
-    "titulo": "MLS: FC Cincinnati vs Columbus Crew",
-    "hora": "16:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Brasileirao: Bahia vs Flamengo",
-    "hora": "16:30",
-    "fecha": "2026-10-18",
+    "titulo": "Brasileirao: Corinthians vs Vitória",
+    "hora": "18:00",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -424,41 +112,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Remo vs Red Bull Bragantino",
-    "hora": "17:30",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Llaneros FC vs Independiente Santa Fe",
-    "hora": "18:05",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
-      },
-      {
-        "nombre": "Win Sports +",
-        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Belgrano (Córdoba) vs River Plate",
-    "hora": "18:15",
-    "fecha": "2026-10-18",
+    "titulo": "Liga Argentina: Deportivo Riestra vs Unión (Santa Fe)",
+    "hora": "19:15",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {
@@ -472,25 +128,9 @@
     ]
   },
   {
-    "titulo": "Liga MX: Monterrey vs Pachuca",
-    "hora": "20:00",
-    "fecha": "2026-10-18",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "ESPN 2 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "TUDN",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Deportivo Cali vs Atlético Junior",
-    "hora": "20:10",
-    "fecha": "2026-10-18",
+    "titulo": "Liga BetPlay: Deportivo Pasto vs Alianza FC",
+    "hora": "20:05",
+    "fecha": "2026-10-19",
     "categoria": "Futbol",
     "canales": [
       {

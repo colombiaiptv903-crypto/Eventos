@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Serie A: Monza vs Cagliari",
-    "hora": "11:30",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Fenerbahce vs Slavia Prague",
+    "hora": "11:45",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "titulo": "Serie A: Parma vs Torino",
-    "hora": "13:45",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Sabah FK vs Borussia Dortmund",
+    "hora": "11:45",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -32,105 +32,121 @@
     ]
   },
   {
-    "titulo": "Premier League: Tottenham Hotspur vs Coventry City",
+    "titulo": "Champions League: AS Roma vs Slovan Bratislava",
     "hora": "14:00",
-    "fecha": "2026-10-19",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
       },
-      {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Getafe vs Rayo Vallecano",
-    "hora": "14:00",
-    "fecha": "2026-10-19",
-    "categoria": "Futbol",
-    "canales": [
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Newell's Old Boys vs Central Córdoba (Santiago del Estero)",
-    "hora": "17:00",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: FC Porto vs PSV Eindhoven",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Sarmiento (Junín) vs Barracas Central",
-    "hora": "17:00",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Liverpool vs Villarreal",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Brasileirao: Corinthians vs Vitória",
-    "hora": "18:00",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Manchester City vs AEK Athens",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Deportivo Riestra vs Unión (Santa Fe)",
-    "hora": "19:15",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Napoli vs Bodo/Glimt",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
         "nombre": "Espn 1 (Col)",
         "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
       }
     ]
   },
   {
-    "titulo": "Liga BetPlay: Deportivo Pasto vs Alianza FC",
-    "hora": "20:05",
-    "fecha": "2026-10-19",
+    "titulo": "Champions League: Paris Saint-Germain vs Barcelona",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Champions League: VfB Stuttgart vs Atlético Madrid",
+    "hora": "14:00",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Deportivo Pereira vs Boyacá Chicó FC",
+    "hora": "16:30",
+    "fecha": "2026-10-20",
     "categoria": "Futbol",
     "canales": [
       {
@@ -140,6 +156,134 @@
       {
         "nombre": "Win Sports +",
         "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Internacional de Bogotá vs Fortaleza CEIF",
+    "hora": "18:15",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Cúcuta Deportivo vs Atlético Nacional",
+    "hora": "18:30",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Guadalajara vs Necaxa",
+    "hora": "19:07",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Copa Sudamericana: Vasco da Gama vs Boca Juniors",
+    "hora": "19:30",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 3 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
+      },
+      {
+        "nombre": "Directv Sports 2",
+        "iframe": "https://spaceyou.store/v3.php?channel=dsports2"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Atlético de San Luis vs Querétaro",
+    "hora": "20:00",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: FC Juárez vs Atlante",
+    "hora": "20:00",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga BetPlay: Millonarios vs Once Caldas",
+    "hora": "20:30",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "iframe": "http://181.78.67.171:8000/play/a0wy/index.m3u8"
+      },
+      {
+        "nombre": "Win Sports +",
+        "iframe": "http://138.186.20.18:8000/play/a04z/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga MX: Tigres UANL vs León",
+    "hora": "22:00",
+    "fecha": "2026-10-20",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      },
+      {
+        "nombre": "TUDN",
+        "iframe": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
       }
     ]
   }

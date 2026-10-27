@@ -1,36 +1,56 @@
 [
   {
-    "titulo": "Ligue 1: Paris Saint-Germain vs Lyon",
-    "hora": "14:30",
-    "fecha": "2026-10-26",
+    "titulo": "Serie A: Sassuolo vs Lazio",
+    "hora": "12:30",
+    "fecha": "2026-10-27",
     "categoria": "Futbol",
     "canales": [
       {
-        "nombre": "ESPN 3 (Col)",
-        "iframe": "http://181.78.0.156:8000/play/a00n/index.m3u8"
-      }
-    ]
-  },
-  {
-    "titulo": "La Liga: Sevilla vs Osasuna",
-    "hora": "15:00",
-    "fecha": "2026-10-26",
-    "categoria": "Futbol",
-    "canales": [
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
       {
         "nombre": "ESPN 2 (Col)",
         "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
-      },
-      {
-        "nombre": "Directv Sports",
-        "iframe": "https://spaceyou.store/v1.php?channel=dsports"
       }
     ]
   },
   {
-    "titulo": "Liga Argentina: Unión (Santa Fe) vs Estudiantes de La Plata",
+    "titulo": "Serie A: AS Roma vs Cagliari",
+    "hora": "14:45",
+    "fecha": "2026-10-27",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Serie A: Torino vs Como",
+    "hora": "14:45",
+    "fecha": "2026-10-27",
+    "categoria": "Futbol",
+    "canales": [
+      {
+        "nombre": "Espn 1 (Col)",
+        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
+      },
+      {
+        "nombre": "ESPN 2 (Col)",
+        "iframe": "http://181.78.0.156:8000/play/a00m/index.m3u8"
+      }
+    ]
+  },
+  {
+    "titulo": "Liga Argentina: Argentinos Juniors vs Independiente Rivadavia",
     "hora": "17:00",
-    "fecha": "2026-10-26",
+    "fecha": "2026-10-27",
     "categoria": "Futbol",
     "canales": [
       {
@@ -44,25 +64,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Coritiba vs Grêmio",
-    "hora": "17:30",
-    "fecha": "2026-10-26",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Jaguares de Córdoba vs Llaneros FC",
+    "titulo": "Liga BetPlay: Cúcuta Deportivo vs Águilas Doradas",
     "hora": "18:00",
-    "fecha": "2026-10-26",
+    "fecha": "2026-10-27",
     "categoria": "Futbol",
     "canales": [
       {
@@ -76,41 +80,9 @@
     ]
   },
   {
-    "titulo": "Brasileirao: Flamengo vs Atlético-MG",
-    "hora": "18:00",
-    "fecha": "2026-10-26",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "Sport TV",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga Argentina: Instituto (Córdoba) vs Deportivo Riestra",
-    "hora": "19:15",
-    "fecha": "2026-10-26",
-    "categoria": "Futbol",
-    "canales": [
-      {
-        "nombre": "TyC Sports",
-        "iframe": "https://la18hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "Espn 1 (Col)",
-        "iframe": "https://streamhdx.com/live1.php?stream=espnco"
-      }
-    ]
-  },
-  {
-    "titulo": "Liga BetPlay: Independiente Santa Fe vs Atlético Bucaramanga",
+    "titulo": "Liga BetPlay: Boyacá Chicó FC vs Atlético Junior",
     "hora": "20:05",
-    "fecha": "2026-10-26",
+    "fecha": "2026-10-27",
     "categoria": "Futbol",
     "canales": [
       {
